@@ -1,0 +1,4419 @@
+[
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserIn_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserIn_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserIn_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Receipt",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "record_key",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "record_key",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "record_key",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicate",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "record_key",
+        "importPath": "services.idempotency_service",
+        "description": "services.idempotency_service",
+        "isExtraImport": true,
+        "detail": "services.idempotency_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_organization_workspace",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_role_assignment",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "sync_user_roles_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_organization_workspace",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_role_assignment",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "sync_user_roles_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_organization_workspace",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_role_assignment",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "sync_user_roles_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_organization_workspace",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_role_assignment",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "sync_user_roles_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_organization_workspace",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_role_assignment",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "sync_user_roles_from_auth0",
+        "importPath": "services.user_service",
+        "description": "services.user_service",
+        "isExtraImport": true,
+        "detail": "services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "base64,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64.",
+        "description": "base64.",
+        "detail": "base64.",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "request_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
+        "isExtraImport": true,
+        "detail": "services.approval_service",
+        "documentation": {}
+    },
+    {
+        "label": "request_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
+        "isExtraImport": true,
+        "detail": "services.approval_service",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
+        "isExtraImport": true,
+        "detail": "services.approval_service",
+        "documentation": {}
+    },
+    {
+        "label": "request_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
+        "isExtraImport": true,
+        "detail": "services.approval_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_policies",
+        "importPath": "services.policy_service",
+        "description": "services.policy_service",
+        "isExtraImport": true,
+        "detail": "services.policy_service",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_policies",
+        "importPath": "services.policy_service",
+        "description": "services.policy_service",
+        "isExtraImport": true,
+        "detail": "services.policy_service",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_policies",
+        "importPath": "services.policy_service",
+        "description": "services.policy_service",
+        "isExtraImport": true,
+        "detail": "services.policy_service",
+        "documentation": {}
+    },
+    {
+        "label": "auto_categorize_spend",
+        "importPath": "services.policy_service",
+        "description": "services.policy_service",
+        "isExtraImport": true,
+        "detail": "services.policy_service",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_policies",
+        "importPath": "services.policy_service",
+        "description": "services.policy_service",
+        "isExtraImport": true,
+        "detail": "services.policy_service",
+        "documentation": {}
+    },
+    {
+        "label": "in_transaction",
+        "importPath": "tortoise.transactions",
+        "description": "tortoise.transactions",
+        "isExtraImport": true,
+        "detail": "tortoise.transactions",
+        "documentation": {}
+    },
+    {
+        "label": "in_transaction",
+        "importPath": "tortoise.transactions",
+        "description": "tortoise.transactions",
+        "isExtraImport": true,
+        "detail": "tortoise.transactions",
+        "documentation": {}
+    },
+    {
+        "label": "in_transaction",
+        "importPath": "tortoise.transactions",
+        "description": "tortoise.transactions",
+        "isExtraImport": true,
+        "detail": "tortoise.transactions",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "TortoiseModelAdmin",
+        "importPath": "fastadmin",
+        "description": "fastadmin",
+        "isExtraImport": true,
+        "detail": "fastadmin",
+        "documentation": {}
+    },
+    {
+        "label": "WidgetType",
+        "importPath": "fastadmin",
+        "description": "fastadmin",
+        "isExtraImport": true,
+        "detail": "fastadmin",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "fastadmin",
+        "description": "fastadmin",
+        "isExtraImport": true,
+        "detail": "fastadmin",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt.",
+        "description": "bcrypt.",
+        "detail": "bcrypt.",
+        "documentation": {}
+    },
+    {
+        "label": "pydantic_model_creator",
+        "importPath": "tortoise.contrib.pydantic",
+        "description": "tortoise.contrib.pydantic",
+        "isExtraImport": true,
+        "detail": "tortoise.contrib.pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "aiosmtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiosmtplib",
+        "description": "aiosmtplib",
+        "detail": "aiosmtplib",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "email.message",
+        "description": "email.message",
+        "isExtraImport": true,
+        "detail": "email.message",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "list_notifications",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "mark_notification_as_read",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "attach_receipt",
+        "importPath": "services.receipt_service",
+        "description": "services.receipt_service",
+        "isExtraImport": true,
+        "detail": "services.receipt_service",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "create_spend_event",
+        "importPath": "services.spend_service",
+        "description": "services.spend_service",
+        "isExtraImport": true,
+        "detail": "services.spend_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_spend_after_receipt",
+        "importPath": "services.spend_service",
+        "description": "services.spend_service",
+        "isExtraImport": true,
+        "detail": "services.spend_service",
+        "documentation": {}
+    },
+    {
+        "label": "send_approval_notification",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "select_approver",
+        "importPath": "services.approver_service",
+        "description": "services.approver_service",
+        "isExtraImport": true,
+        "detail": "services.approver_service",
+        "documentation": {}
+    },
+    {
+        "label": "extract_receipt_data",
+        "importPath": "services.gemini_service",
+        "description": "services.gemini_service",
+        "isExtraImport": true,
+        "detail": "services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "getpass",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "getpass",
+        "description": "getpass",
+        "detail": "getpass",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": ".history.backend.auth.config_20260210153114",
+        "description": ".history.backend.auth.config_20260210153114",
+        "peekOfCode": "class Settings(BaseSettings):\n   auth0_domain: str\n   auth0_api_audience: str\n   gemini_api_key: str\n   authorization_header_streams_auth0_token: str\n   webhook_signing_secret:str\n   auth0_webhook_secret:str\n   admin_user_model:str\n   admin_user_model_username_field:str\n   admin_secret_key:str",
+        "detail": ".history.backend.auth.config_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": ".history.backend.auth.config_20260210153114",
+        "description": ".history.backend.auth.config_20260210153114",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": ".history.backend.auth.config_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": ".history.backend.auth.config_20260210205523",
+        "description": ".history.backend.auth.config_20260210205523",
+        "peekOfCode": "class Settings(BaseSettings):\n   auth0_domain: str\n   auth0_api_audience: str\n   gemini_api_key: str\n   authorization_header_streams_auth0_token: str\n   webhook_signing_secret:str\n   auth0_webhook_secret:str\n   admin_user_model:str\n   admin_user_model_username_field:str\n   admin_secret_key:str",
+        "detail": ".history.backend.auth.config_20260210205523",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": ".history.backend.auth.config_20260210205523",
+        "description": ".history.backend.auth.config_20260210205523",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": ".history.backend.auth.config_20260210205523",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": ".history.backend.auth.config_20260210211531",
+        "description": ".history.backend.auth.config_20260210211531",
+        "peekOfCode": "class Settings(BaseSettings):\n   auth0_domain: str\n   auth0_api_audience: str\n   gemini_api_key: str\n   authorization_header_streams_auth0_token: str\n   webhook_signing_secret:str\n   auth0_webhook_secret:str\n   admin_user_model:str\n   admin_user_model_username_field:str\n   admin_secret_key:str",
+        "detail": ".history.backend.auth.config_20260210211531",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": ".history.backend.auth.config_20260210211531",
+        "description": ".history.backend.auth.config_20260210211531",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": ".history.backend.auth.config_20260210211531",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205527",
+        "description": ".history.backend.auth.dependencies_20260210205527",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action",
+        "detail": ".history.backend.auth.dependencies_20260210205527",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205527",
+        "description": ".history.backend.auth.dependencies_20260210205527",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action\n    # This looks for 'https://spendflow.com/roles'",
+        "detail": ".history.backend.auth.dependencies_20260210205527",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205535",
+        "description": ".history.backend.auth.dependencies_20260210205535",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action",
+        "detail": ".history.backend.auth.dependencies_20260210205535",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205535",
+        "description": ".history.backend.auth.dependencies_20260210205535",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action\n    # This looks for 'https://spendflow.com/roles'",
+        "detail": ".history.backend.auth.dependencies_20260210205535",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205647",
+        "description": ".history.backend.auth.dependencies_20260210205647",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action",
+        "detail": ".history.backend.auth.dependencies_20260210205647",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260210205647",
+        "description": ".history.backend.auth.dependencies_20260210205647",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action\n    # This looks for 'Namespace/roles' in the token, which is where we put the user's roles in Auth0",
+        "detail": ".history.backend.auth.dependencies_20260210205647",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": ".history.backend.auth.roles_20260210153114",
+        "description": ".history.backend.auth.roles_20260210153114",
+        "peekOfCode": "class Role(str, Enum):\n    EMPLOYEE = \"employee\"\n    MANAGER = \"manager\"\n    FINANCE = \"finance\"\n    ADMIN = \"admin\"",
+        "detail": ".history.backend.auth.roles_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": ".history.backend.auth.roles_20260210205754",
+        "description": ".history.backend.auth.roles_20260210205754",
+        "peekOfCode": "class Role(str, Enum):\n    EMPLOYEE = \"employee\"\n    MANAGER = \"manager\"\n    FINANCE = \"finance\"\n    ADMIN = \"admin\"",
+        "detail": ".history.backend.auth.roles_20260210205754",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.admins_20260210153114",
+        "description": ".history.backend.routes.admins_20260210153114",
+        "peekOfCode": "router = APIRouter(prefix=\"/admin/users\", tags=[\"Admin\"])\n@router.get(\"/\", response_model=List[User_Pydantic])\nasync def get_users():\n    # .all() returns a QuerySet, .from_queryset() converts it to Pydantic\n    return await User_Pydantic.from_queryset(User.all())\n@router.post(\"/\", response_model=User_Pydantic)\nasync def create_user(user: UserIn_Pydantic):\n    # .dict() gets the data from Pydantic, ** unpacks it into User.create\n    user_obj = await User.create(**user.dict(exclude_unset=True))\n    return await User_Pydantic.from_tortoise_orm(user_obj)",
+        "detail": ".history.backend.routes.admins_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.admins_20260210205929",
+        "description": ".history.backend.routes.admins_20260210205929",
+        "peekOfCode": "router = APIRouter(prefix=\"/admin/users\", tags=[\"Admin\"])\n@router.get(\"/\", response_model=List[User_Pydantic])\nasync def get_users():\n    # .all() returns a QuerySet, .from_queryset() converts it to Pydantic\n    return await User_Pydantic.from_queryset(User.all())\n@router.post(\"/\", response_model=User_Pydantic)\nasync def create_user(user: UserIn_Pydantic):\n    # .dict() gets the data from Pydantic, ** unpacks it into User.create\n    user_obj = await User.create(**user.dict(exclude_unset=True))\n    return await User_Pydantic.from_tortoise_orm(user_obj)",
+        "detail": ".history.backend.routes.admins_20260210205929",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210153114",
+        "description": ".history.backend.routes.events_20260210153114",
+        "peekOfCode": "settings = get_settings()\nrouter = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n# This should be in your .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\", \"super-secret-key\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header",
+        "detail": ".history.backend.routes.events_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210153114",
+        "description": ".history.backend.routes.events_20260210153114",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n# This should be in your .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\", \"super-secret-key\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:",
+        "detail": ".history.backend.routes.events_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210153114",
+        "description": ".history.backend.routes.events_20260210153114",
+        "peekOfCode": "WEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\", \"super-secret-key\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": ".history.backend.routes.events_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210010",
+        "description": ".history.backend.routes.events_20260210210010",
+        "peekOfCode": "settings = get_settings()\nrouter = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n# This should be in your .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header",
+        "detail": ".history.backend.routes.events_20260210210010",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210010",
+        "description": ".history.backend.routes.events_20260210210010",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n# This should be in your .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:",
+        "detail": ".history.backend.routes.events_20260210210010",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210010",
+        "description": ".history.backend.routes.events_20260210210010",
+        "peekOfCode": "WEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": ".history.backend.routes.events_20260210210010",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210029",
+        "description": ".history.backend.routes.events_20260210210029",
+        "peekOfCode": "settings = get_settings()\nrouter = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header",
+        "detail": ".history.backend.routes.events_20260210210029",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210029",
+        "description": ".history.backend.routes.events_20260210210029",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:",
+        "detail": ".history.backend.routes.events_20260210210029",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210029",
+        "description": ".history.backend.routes.events_20260210210029",
+        "peekOfCode": "WEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # 1. Security Check: Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": ".history.backend.routes.events_20260210210029",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210306",
+        "description": ".history.backend.routes.events_20260210210306",
+        "peekOfCode": "settings = get_settings()\nrouter = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header",
+        "detail": ".history.backend.routes.events_20260210210306",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210306",
+        "description": ".history.backend.routes.events_20260210210306",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:",
+        "detail": ".history.backend.routes.events_20260210210306",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": ".history.backend.routes.events_20260210210306",
+        "description": ".history.backend.routes.events_20260210210306",
+        "peekOfCode": "WEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": ".history.backend.routes.events_20260210210306",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210153114",
+        "description": ".history.backend.routes.policies_20260210153114",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210153114",
+        "description": ".history.backend.routes.policies_20260210153114",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n# --- Routes ---",
+        "detail": ".history.backend.routes.policies_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210153114",
+        "description": ".history.backend.routes.policies_20260210153114",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n# --- Routes ---\n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260210153114",
+        "description": ".history.backend.routes.policies_20260210153114",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n# --- Request/Response schemas ---\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210210336",
+        "description": ".history.backend.routes.policies_20260210210336",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260210210336",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210210336",
+        "description": ".history.backend.routes.policies_20260210210336",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260210210336",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260210210336",
+        "description": ".history.backend.routes.policies_20260210210336",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260210210336",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260210210336",
+        "description": ".history.backend.routes.policies_20260210210336",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260210210336",
+        "documentation": {}
+    },
+    {
+        "label": "LineItem",
+        "kind": 6,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "class LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n# 2. Setup Gemini structured LLM",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceData",
+        "kind": 6,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "class InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n# 2. Setup Gemini structured LLM\nllm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "settings = get_settings()\n# 1. Define Structured Schema for receipts\nclass LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "structured_llm",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "structured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210153114",
+        "description": ".history.backend.services.gemini_service_20260210153114",
+        "peekOfCode": "SYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"\n    content_list = []",
+        "detail": ".history.backend.services.gemini_service_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "LineItem",
+        "kind": 6,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "class LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n#  Gemini structured LLM",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceData",
+        "kind": 6,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "class InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n#  Gemini structured LLM\nllm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "settings = get_settings()\n# Structured Schema for receipts using pydantic\nclass LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "structured_llm",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "structured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": ".history.backend.services.gemini_service_20260210210529",
+        "description": ".history.backend.services.gemini_service_20260210210529",
+        "peekOfCode": "SYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"\n    content_list = []",
+        "detail": ".history.backend.services.gemini_service_20260210210529",
+        "documentation": {}
+    },
+    {
+        "label": "DB_URL",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260210153114",
+        "description": ".history.backend.db_20260210153114",
+        "peekOfCode": "DB_URL = \"sqlite://db.sqlite3\"\nasync def init_db() -> None:\n    await Tortoise.init(\n        db_url=DB_URL,\n        modules={\"models\": [\"models.models\"]},\n    )\n    print(Tortoise.apps)\n    await Tortoise.generate_schemas()\nasync def close_db() -> None:\n    await Tortoise.close_connections()",
+        "detail": ".history.backend.db_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260210211345",
+        "description": ".history.backend.db_20260210211345",
+        "peekOfCode": "settings = get_settings()\nDB_URL = \"sqlite://db.sqlite3\"\nasync def init_db() -> None:\n    await Tortoise.init(\n        db_url=settings.DB_URL,\n        modules={\"models\": [\"models.models\"]},\n    )\n    print(Tortoise.apps)\n    await Tortoise.generate_schemas()\nasync def close_db() -> None:",
+        "detail": ".history.backend.db_20260210211345",
+        "documentation": {}
+    },
+    {
+        "label": "DB_URL",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260210211345",
+        "description": ".history.backend.db_20260210211345",
+        "peekOfCode": "DB_URL = \"sqlite://db.sqlite3\"\nasync def init_db() -> None:\n    await Tortoise.init(\n        db_url=settings.DB_URL,\n        modules={\"models\": [\"models.models\"]},\n    )\n    print(Tortoise.apps)\n    await Tortoise.generate_schemas()\nasync def close_db() -> None:\n    await Tortoise.close_connections()",
+        "detail": ".history.backend.db_20260210211345",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260210211425",
+        "description": ".history.backend.db_20260210211425",
+        "peekOfCode": "settings = get_settings()\nasync def init_db() -> None:\n    await Tortoise.init(\n        db_url=settings.DB_URL,\n        modules={\"models\": [\"models.models\"]},\n    )\n    print(Tortoise.apps)\n    await Tortoise.generate_schemas()\nasync def close_db() -> None:\n    await Tortoise.close_connections()",
+        "detail": ".history.backend.db_20260210211425",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": ".history.backend.main_20260210153114",
+        "description": ".history.backend.main_20260210153114",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result",
+        "detail": ".history.backend.main_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210153114",
+        "description": ".history.backend.main_20260210153114",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": ".history.backend.main_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210153114",
+        "description": ".history.backend.main_20260210153114",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": ".history.backend.main_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210153114",
+        "description": ".history.backend.main_20260210153114",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": ".history.backend.main_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": ".history.backend.main_20260210211223",
+        "description": ".history.backend.main_20260210211223",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result",
+        "detail": ".history.backend.main_20260210211223",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210211223",
+        "description": ".history.backend.main_20260210211223",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": ".history.backend.main_20260210211223",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210211223",
+        "description": ".history.backend.main_20260210211223",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": ".history.backend.main_20260210211223",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260210211223",
+        "description": ".history.backend.main_20260210211223",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": ".history.backend.main_20260210211223",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.auth.config",
+        "description": "backend.auth.config",
+        "peekOfCode": "class Settings(BaseSettings):\n   auth0_domain: str\n   auth0_api_audience: str\n   gemini_api_key: str\n   authorization_header_streams_auth0_token: str\n   webhook_signing_secret:str\n   auth0_webhook_secret:str\n   admin_user_model:str\n   admin_user_model_username_field:str\n   admin_secret_key:str",
+        "detail": "backend.auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "backend.auth.config",
+        "description": "backend.auth.config",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": "backend.auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.auth.dependencies",
+        "description": "backend.auth.dependencies",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action",
+        "detail": "backend.auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": "backend.auth.dependencies",
+        "description": "backend.auth.dependencies",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims: dict = Depends(auth0.require_auth())):\n    email = claims.get(\"email\")\n    if not email:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n    # Extract roles from the Auth0 custom claim we created in the Action\n    # This looks for 'Namespace/roles' in the token, which is where we put the user's roles in Auth0",
+        "detail": "backend.auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "kind": 2,
+        "importPath": "backend.auth.permissions",
+        "description": "backend.auth.permissions",
+        "peekOfCode": "def require_role(*allowed_roles: Role):\n    # This function is the actual FastAPI dependency\n    async def checker(user=Depends(get_current_user)):\n        # Convert the Enum values to a list of strings\n        allowed_values = [r.value for r in allowed_roles]\n        if user.role not in allowed_values:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=f\"Insufficient permissions. Required: {allowed_values}\"\n            )",
+        "detail": "backend.auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "backend.auth.roles",
+        "description": "backend.auth.roles",
+        "peekOfCode": "class Role(str, Enum):\n    EMPLOYEE = \"employee\"\n    MANAGER = \"manager\"\n    FINANCE = \"finance\"\n    ADMIN = \"admin\"",
+        "detail": "backend.auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class BaseModel(Model):\n    id = fields.UUIDField(pk=True, default=uuid.uuid4)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    class Meta:\n        abstract = True\nclass Organization(BaseModel):\n    name = fields.CharField(max_length=255)\n    domain = fields.CharField(max_length=255, null=True)\n    auth_id=fields.CharField(max_length=500,null=True, blank=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Organization(BaseModel):\n    name = fields.CharField(max_length=255)\n    domain = fields.CharField(max_length=255, null=True)\n    auth_id=fields.CharField(max_length=500,null=True, blank=True)\n    is_active = fields.BooleanField(default=True)\nclass User(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"users\",\n        on_delete=fields.CASCADE",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class User(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"users\",\n        on_delete=fields.CASCADE\n    )\n    email = fields.CharField(max_length=255, unique=True)\n    full_name = fields.CharField(max_length=255)\n    role = fields.CharField(max_length=50)\n    is_active = fields.BooleanField(default=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Team",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Team(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"teams\",\n        on_delete=fields.CASCADE\n    )\n    name = fields.CharField(max_length=255)\nclass TeamMember(BaseModel):\n    team = fields.ForeignKeyField(\n        \"models.Team\",",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMember",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class TeamMember(BaseModel):\n    team = fields.ForeignKeyField(\n        \"models.Team\",\n        related_name=\"members\",\n        on_delete=fields.CASCADE\n    )\n    user = fields.ForeignKeyField(\n        \"models.User\",\n        related_name=\"team_memberships\",\n        on_delete=fields.CASCADE",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Vendor(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"vendors\",\n        on_delete=fields.CASCADE\n    )\n    name = fields.CharField(max_length=255)\n    normalized_name = fields.CharField(max_length=255)\n    is_blocked = fields.BooleanField(default=False)\nclass Category(BaseModel):",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Category(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"categories\",\n        on_delete=fields.CASCADE\n    )\n    name = fields.CharField(max_length=255)\n    accounting_code = fields.CharField(max_length=100, null=True)\nclass SpendEvent(BaseModel):\n    organization = fields.ForeignKeyField(",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class SpendEvent(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"spend_events\",\n        on_delete=fields.CASCADE\n    )\n    user = fields.ForeignKeyField(\n        \"models.User\",\n        related_name=\"spend_events\",\n        on_delete=fields.SET_NULL,",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Receipt",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Receipt(BaseModel):\n    spend_event = fields.ForeignKeyField(\n        \"models.SpendEvent\",\n        related_name=\"receipts\",\n        on_delete=fields.CASCADE\n    )\n    file_url = fields.TextField()\n    extracted_data = fields.JSONField(null=True)\n    is_verified = fields.BooleanField(default=False)\nclass Policy(BaseModel):",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Policy(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"policies\",\n        on_delete=fields.CASCADE\n    )\n    name = fields.CharField(max_length=255)\n    is_active = fields.BooleanField(default=True)\nclass PolicyRule(BaseModel):\n    policy = fields.ForeignKeyField(",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class PolicyRule(BaseModel):\n    policy = fields.ForeignKeyField(\n        \"models.Policy\",\n        related_name=\"rules\",\n        on_delete=fields.CASCADE\n    )\n    condition = fields.JSONField()\n    action = fields.JSONField()\n    priority = fields.IntField(default=0)\nclass Approval(BaseModel):",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Approval(BaseModel):\n    spend_event = fields.ForeignKeyField(\n        \"models.SpendEvent\",\n        related_name=\"approvals\",\n        on_delete=fields.CASCADE\n    )\n    approver = fields.ForeignKeyField(\n        \"models.User\",\n        related_name=\"approvals\",\n        on_delete=fields.SET_NULL,",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class IdempotencyKey(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"idempotency_keys\",\n        on_delete=fields.CASCADE,\n        null=True\n    )\n    key = fields.CharField(max_length=255, unique=True)\n    scope = fields.CharField(max_length=100)\nclass Notification(BaseModel):",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class Notification(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"notifications\",\n        on_delete=fields.CASCADE\n    )\n    recipient = fields.ForeignKeyField(\n        \"models.User\",\n        related_name=\"notifications\",\n        on_delete=fields.CASCADE",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "kind": 6,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "class AuditLog(BaseModel):\n    organization = fields.ForeignKeyField(\n        \"models.Organization\",\n        related_name=\"audit_logs\",\n        on_delete=fields.CASCADE\n    )\n    actor = fields.ForeignKeyField(\n        \"models.User\",\n        related_name=\"audit_logs\",\n        on_delete=fields.SET_NULL,",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User_Pydantic",
+        "kind": 5,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "User_Pydantic = pydantic_model_creator(User, name=\"User\")\n# UserIn_Pydantic: For creating/updating (excludes read-only fields)\nUserIn_Pydantic = pydantic_model_creator(User, name=\"UserIn\", exclude_readonly=True)\n# Organization schemas\nOrg_Pydantic = pydantic_model_creator(Organization, name=\"Organization\")\nOrgIn_Pydantic = pydantic_model_creator(Organization, name=\"OrganizationIn\", exclude_readonly=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserIn_Pydantic",
+        "kind": 5,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "UserIn_Pydantic = pydantic_model_creator(User, name=\"UserIn\", exclude_readonly=True)\n# Organization schemas\nOrg_Pydantic = pydantic_model_creator(Organization, name=\"Organization\")\nOrgIn_Pydantic = pydantic_model_creator(Organization, name=\"OrganizationIn\", exclude_readonly=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Org_Pydantic",
+        "kind": 5,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "Org_Pydantic = pydantic_model_creator(Organization, name=\"Organization\")\nOrgIn_Pydantic = pydantic_model_creator(Organization, name=\"OrganizationIn\", exclude_readonly=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrgIn_Pydantic",
+        "kind": 5,
+        "importPath": "backend.models.models",
+        "description": "backend.models.models",
+        "peekOfCode": "OrgIn_Pydantic = pydantic_model_creator(Organization, name=\"OrganizationIn\", exclude_readonly=True)",
+        "detail": "backend.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_HOST",
+        "kind": 5,
+        "importPath": "backend.notifications.service",
+        "description": "backend.notifications.service",
+        "peekOfCode": "SMTP_HOST = os.getenv(\"SMTP_HOST\")\nSMTP_PORT = int(os.getenv(\"SMTP_PORT\", 587))\nSMTP_USER = os.getenv(\"SMTP_USER\")\nSMTP_PASSWORD = os.getenv(\"SMTP_PASSWORD\")\nFROM_EMAIL = os.getenv(\"FROM_EMAIL\", \"no-reply@demo.com\")\nasync def send_approval_notification(approval: Approval):\n    approver: User = approval.approver\n    spend = approval.spend_event\n    if not approver or not approver.email:\n        return",
+        "detail": "backend.notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PORT",
+        "kind": 5,
+        "importPath": "backend.notifications.service",
+        "description": "backend.notifications.service",
+        "peekOfCode": "SMTP_PORT = int(os.getenv(\"SMTP_PORT\", 587))\nSMTP_USER = os.getenv(\"SMTP_USER\")\nSMTP_PASSWORD = os.getenv(\"SMTP_PASSWORD\")\nFROM_EMAIL = os.getenv(\"FROM_EMAIL\", \"no-reply@demo.com\")\nasync def send_approval_notification(approval: Approval):\n    approver: User = approval.approver\n    spend = approval.spend_event\n    if not approver or not approver.email:\n        return\n    msg = EmailMessage()",
+        "detail": "backend.notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_USER",
+        "kind": 5,
+        "importPath": "backend.notifications.service",
+        "description": "backend.notifications.service",
+        "peekOfCode": "SMTP_USER = os.getenv(\"SMTP_USER\")\nSMTP_PASSWORD = os.getenv(\"SMTP_PASSWORD\")\nFROM_EMAIL = os.getenv(\"FROM_EMAIL\", \"no-reply@demo.com\")\nasync def send_approval_notification(approval: Approval):\n    approver: User = approval.approver\n    spend = approval.spend_event\n    if not approver or not approver.email:\n        return\n    msg = EmailMessage()\n    msg[\"From\"] = FROM_EMAIL",
+        "detail": "backend.notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PASSWORD",
+        "kind": 5,
+        "importPath": "backend.notifications.service",
+        "description": "backend.notifications.service",
+        "peekOfCode": "SMTP_PASSWORD = os.getenv(\"SMTP_PASSWORD\")\nFROM_EMAIL = os.getenv(\"FROM_EMAIL\", \"no-reply@demo.com\")\nasync def send_approval_notification(approval: Approval):\n    approver: User = approval.approver\n    spend = approval.spend_event\n    if not approver or not approver.email:\n        return\n    msg = EmailMessage()\n    msg[\"From\"] = FROM_EMAIL\n    msg[\"To\"] = approver.email",
+        "detail": "backend.notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "FROM_EMAIL",
+        "kind": 5,
+        "importPath": "backend.notifications.service",
+        "description": "backend.notifications.service",
+        "peekOfCode": "FROM_EMAIL = os.getenv(\"FROM_EMAIL\", \"no-reply@demo.com\")\nasync def send_approval_notification(approval: Approval):\n    approver: User = approval.approver\n    spend = approval.spend_event\n    if not approver or not approver.email:\n        return\n    msg = EmailMessage()\n    msg[\"From\"] = FROM_EMAIL\n    msg[\"To\"] = approver.email\n    msg[\"Subject\"] = \"Approval required for spend\"",
+        "detail": "backend.notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.admins",
+        "description": "backend.routes.admins",
+        "peekOfCode": "router = APIRouter(prefix=\"/admin/users\", tags=[\"Admin\"])\n@router.get(\"/\", response_model=List[User_Pydantic])\nasync def get_users():\n    # .all() returns a QuerySet, .from_queryset() converts it to Pydantic\n    return await User_Pydantic.from_queryset(User.all())\n@router.post(\"/\", response_model=User_Pydantic)\nasync def create_user(user: UserIn_Pydantic):\n    # .dict() gets the data from Pydantic, ** unpacks it into User.create\n    user_obj = await User.create(**user.dict(exclude_unset=True))\n    return await User_Pydantic.from_tortoise_orm(user_obj)",
+        "detail": "backend.routes.admins",
+        "documentation": {}
+    },
+    {
+        "label": "ApprovalDecisionRequest",
+        "kind": 6,
+        "importPath": "backend.routes.approvals",
+        "description": "backend.routes.approvals",
+        "peekOfCode": "class ApprovalDecisionRequest(BaseModel):\n    approved: bool\n    comment: str | None = None\n@router.post(\"/{approval_id}/decision\")\nasync def decide_approval(\n    approval_id: str,\n    payload: ApprovalDecisionRequest,\n    user=Depends(require_role(Role.MANAGER, Role.FINANCE))\n):\n    approval = await Approval.get_or_none(id=approval_id)",
+        "detail": "backend.routes.approvals",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.approvals",
+        "description": "backend.routes.approvals",
+        "peekOfCode": "router = APIRouter(prefix=\"/approvals\", tags=[\"Approvals\"])\nclass ApprovalDecisionRequest(BaseModel):\n    approved: bool\n    comment: str | None = None\n@router.post(\"/{approval_id}/decision\")\nasync def decide_approval(\n    approval_id: str,\n    payload: ApprovalDecisionRequest,\n    user=Depends(require_role(Role.MANAGER, Role.FINANCE))\n):",
+        "detail": "backend.routes.approvals",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.audit_logs",
+        "description": "backend.routes.audit_logs",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": "backend.routes.audit_logs",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.routes.events",
+        "description": "backend.routes.events",
+        "peekOfCode": "settings = get_settings()\nrouter = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header",
+        "detail": "backend.routes.events",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.events",
+        "description": "backend.routes.events",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\n#should be in .env file\nWEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:",
+        "detail": "backend.routes.events",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": "backend.routes.events",
+        "description": "backend.routes.events",
+        "peekOfCode": "WEBHOOK_SECRET = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n@router.post(\"/webhook\")\nasync def handle_auth0_webhook(\n    request: Request, \n    x_webhook_secret: str = Header(None)\n):\n    # Verify the secret header\n    if x_webhook_secret != WEBHOOK_SECRET:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "backend.routes.events",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.notifications",
+        "description": "backend.routes.notifications",
+        "peekOfCode": "router = APIRouter(prefix=\"/notifications\", tags=[\"Notifications\"])\n@router.get(\"\")\nasync def get_notifications(\n    user=Depends(get_current_user),\n    unread_only: bool = Query(False),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0)\n):\n    return await list_notifications(user=user, unread_only=unread_only, limit=limit, offset=offset)\n@router.post(\"/{notification_id}/read\")",
+        "detail": "backend.routes.notifications",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": "backend.routes.policies",
+        "description": "backend.routes.policies",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": "backend.routes.policies",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": "backend.routes.policies",
+        "description": "backend.routes.policies",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": "backend.routes.policies",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": "backend.routes.policies",
+        "description": "backend.routes.policies",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": "backend.routes.policies",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.policies",
+        "description": "backend.routes.policies",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": "backend.routes.policies",
+        "documentation": {}
+    },
+    {
+        "label": "ReceiptUploadRequest",
+        "kind": 6,
+        "importPath": "backend.routes.receipts",
+        "description": "backend.routes.receipts",
+        "peekOfCode": "class ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get(id=spend_id)\n    file_bytes = await file.read()\n    receipt = await attach_receipt(\n        spend=spend,\n        file_bytes=file_bytes,",
+        "detail": "backend.routes.receipts",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.receipts",
+        "description": "backend.routes.receipts",
+        "peekOfCode": "router = APIRouter(prefix=\"/receipts\", tags=[\"Receipts\"])\nclass ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get(id=spend_id)\n    file_bytes = await file.read()\n    receipt = await attach_receipt(\n        spend=spend,",
+        "detail": "backend.routes.receipts",
+        "documentation": {}
+    },
+    {
+        "label": "SpendCreateRequest",
+        "kind": 6,
+        "importPath": "backend.routes.spends",
+        "description": "backend.routes.spends",
+        "peekOfCode": "class SpendCreateRequest(BaseModel):\n    amount: float\n    currency: str\n    spend_date: date\n    source: str\n    description: str | None = None\n    vendor_id: str | None = None\n    category_id: str | None = None\n@router.get(\"\")\nasync def list_spends(",
+        "detail": "backend.routes.spends",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.spends",
+        "description": "backend.routes.spends",
+        "peekOfCode": "router = APIRouter(prefix=\"/spends\", tags=[\"Spends\"])\nclass SpendCreateRequest(BaseModel):\n    amount: float\n    currency: str\n    spend_date: date\n    source: str\n    description: str | None = None\n    vendor_id: str | None = None\n    category_id: str | None = None\n@router.get(\"\")",
+        "detail": "backend.routes.spends",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes.users",
+        "description": "backend.routes.users",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n@router.get(\"/me\")\nasync def get_me(user=Depends(get_current_user)):\n    return user",
+        "detail": "backend.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "LineItem",
+        "kind": 6,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "class LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n#  Gemini structured LLM",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceData",
+        "kind": 6,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "class InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")\n    total_amount: float = Field(description=\"The final total amount on the receipt\")\n#  Gemini structured LLM\nllm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "settings = get_settings()\n# Structured Schema for receipts using pydantic\nclass LineItem(BaseModel):\n    description: str = Field(description=\"The name or description of the item\")\n    quantity: int = Field(description=\"The number of units\", default=1)\n    price: float = Field(description=\"The price per unit\")\nclass InvoiceData(BaseModel):\n    vendor_name: str = Field(description=\"The name of the company that issued the invoice\")\n    date: Optional[str] = Field(description=\"The date of the invoice in YYYY-MM-DD format\")\n    items: list[LineItem] = Field(description=\"List of items purchased\")",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(model=\"gemini-1.5-flash\", temperature=0, api_key=settings.gemini_api_key)\nstructured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "structured_llm",
+        "kind": 5,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "structured_llm = llm.with_structured_output(InvoiceData)\nSYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "backend.services.gemini_service",
+        "description": "backend.services.gemini_service",
+        "peekOfCode": "SYSTEM_PROMPT = SystemMessage(\n    content=\"You are a professional accounting assistant. Extract data accurately from receipts. \"\n            \"If the date format is unclear, convert it to YYYY-MM-DD. If quantity is missing, assume 1.\"\n)\nasync def extract_receipt_data(file_bytes: bytes = None, text_content: str = None) -> InvoiceData:\n    \"\"\"\n    Uses Gemini via LangChain to extract structured invoice data.\n    Can handle images (PDF or image) or raw text.\n    \"\"\"\n    content_list = []",
+        "detail": "backend.services.gemini_service",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--cli\", action=\"store_true\")\n    args = parser.parse_args()\n    async def runner():\n        await init_db()\n        if args.cli:\n            await bootstrap_cli()\n        else:\n            await bootstrap_default()",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "BOOTSTRAP_KEY",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "BOOTSTRAP_KEY = \"bootstrap:admin\"\nBOOTSTRAP_SCOPE = \"system\"\nADMIN_ORG_NAME = \"admin-org\"\nDEFAULT_ADMIN_EMAIL = \"admin-test@gmail.com\"\nDEFAULT_ADMIN_PASSWORD = \"123\"\nDEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "BOOTSTRAP_SCOPE",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "BOOTSTRAP_SCOPE = \"system\"\nADMIN_ORG_NAME = \"admin-org\"\nDEFAULT_ADMIN_EMAIL = \"admin-test@gmail.com\"\nDEFAULT_ADMIN_PASSWORD = \"123\"\nDEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,\n    full_name: str = DEFAULT_ADMIN_NAME,",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_ORG_NAME",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "ADMIN_ORG_NAME = \"admin-org\"\nDEFAULT_ADMIN_EMAIL = \"admin-test@gmail.com\"\nDEFAULT_ADMIN_PASSWORD = \"123\"\nDEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,\n    full_name: str = DEFAULT_ADMIN_NAME,\n) -> bool:",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ADMIN_EMAIL",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "DEFAULT_ADMIN_EMAIL = \"admin-test@gmail.com\"\nDEFAULT_ADMIN_PASSWORD = \"123\"\nDEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,\n    full_name: str = DEFAULT_ADMIN_NAME,\n) -> bool:\n    exists = await IdempotencyKey.filter(",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ADMIN_PASSWORD",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "DEFAULT_ADMIN_PASSWORD = \"123\"\nDEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,\n    full_name: str = DEFAULT_ADMIN_NAME,\n) -> bool:\n    exists = await IdempotencyKey.filter(\n        key=BOOTSTRAP_KEY,",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_ADMIN_NAME",
+        "kind": 5,
+        "importPath": "backend.create_suser",
+        "description": "backend.create_suser",
+        "peekOfCode": "DEFAULT_ADMIN_NAME = \"Admin\"\nasync def bootstrap_admin(\n    *,\n    email: str,\n    password: str,\n    full_name: str = DEFAULT_ADMIN_NAME,\n) -> bool:\n    exists = await IdempotencyKey.filter(\n        key=BOOTSTRAP_KEY,\n        scope=BOOTSTRAP_SCOPE,",
+        "detail": "backend.create_suser",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.db",
+        "description": "backend.db",
+        "peekOfCode": "settings = get_settings()\nasync def init_db() -> None:\n    await Tortoise.init(\n        db_url=settings.DB_URL,\n        modules={\"models\": [\"models.models\"]},\n    )\n    print(Tortoise.apps)\n    await Tortoise.generate_schemas()\nasync def close_db() -> None:\n    await Tortoise.close_connections()",
+        "detail": "backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "kind": 6,
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "peekOfCode": "class SpendStatus(str, Enum):\n    PENDING = \"pending\"\n    AWAITING_APPROVAL = \"awaiting_approval\"\n    APPROVED = \"approved\"\n    REJECTED = \"rejected\"\n    BLOCKED = \"blocked\"\n# Allowed transitions map\nTRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],",
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSITIONS",
+        "kind": 5,
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "peekOfCode": "TRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.APPROVED: [],\n    SpendStatus.REJECTED: [],\n    SpendStatus.BLOCKED: []\n}\nasync def transition_spend(spend: SpendEvent, new_status: str):\n    if new_status not in TRANSITIONS[spend.status]:\n        raise ValueError(f\"Invalid transition from {spend.status} to {new_status}\")",
+        "detail": "backend.spend_state",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn
+authlib
+auth0-fastapi-api
+langchain-google-genai
+tortoise-orm
+aiosqlite
+fastadmin[fastapi,tortoise-orm]
+fastapi-admin 
+aioredis
+redis
+starlette-admin[tortoise]
