@@ -225,4 +225,8 @@ No model needs to know about another model’s logic.
 2. Approval state machine code
 3. SpendEvent API lifecycle endpoints
 4. Async task and event abstraction
-
+## Notes
+tools used :
+1. Tortoise ORM, Sqlite for testing locally, AUTH0 for authentication & Authorization cycle, Fastapi
+2. Reactjs with AUTH0 for Auth, React-router-dom, React-hook-form, Tialwindcss, Shadcn-ui,  
+--
