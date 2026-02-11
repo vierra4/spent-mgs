@@ -16,7 +16,7 @@ export interface ApiError {
 
 export type UserRole = 'employee' | 'manager' | 'finance' | 'admin';
 export type SpendStatus = 'pending' | 'approved' | 'rejected' | 'blocked' | 'draft';
-export type Currency = 'USD' | 'EUR' | 'GBP' | 'CAD' | 'AUD';
+export type Currency = | 'RWF'|'UGS'|'KSH'|'USD' | 'EUR' | 'GBP' | 'CAD' | 'AUD';
 
 export interface Organization {
   id: UUID;
