@@ -105,7 +105,7 @@ export function SpendTable({
                     {spend.description || 'No description'}
                   </span>
                   <span className="text-[11px] font-medium text-slate-400 uppercase tracking-tight">
-                    {CATEGORY_LABELS[spend.category as keyof typeof CATEGORY_LABELS] || spend.category}
+                    {CATEGORY_LABELS[spend.category as keyof typeof CATEGORY_LABELS] ?? spend.category}
                   </span>
                 </div>
               </TableCell>
@@ -154,7 +154,7 @@ export function SpendTable({
                       <UserIcon className="h-3 w-3 text-slate-400" />
                     </div>
                     <span className="text-sm font-medium text-slate-700">
-                      {spend.full_name || spend.userName || 'System User'}
+                      {spend.user?.full_name || spend.user_name || 'System User'}
                     </span>
                   </div>
                 </TableCell>
@@ -162,7 +162,7 @@ export function SpendTable({
 
               {/* Date */}
               <TableCell className="text-sm text-slate-500 font-medium">
-                {formatDate(spend.created_at || spend.createdAt || '')}
+                {formatDate(spend.created_at ||spend.spend_date|| '')}
               </TableCell>
 
               {/* Status Badge */}

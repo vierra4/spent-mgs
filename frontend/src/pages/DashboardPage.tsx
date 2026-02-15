@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { useApi } from '@/lib/api';
-import { Spend, PaginatedResponse } from '@/types/spend';
+import { Spend, PaginationResponse } from '@/types/spend';
 import { SpendTable } from '@/components/spend/SpendTable';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -16,17 +16,18 @@ export function DashboardPage() {
   const { getSpends, getPendingSpends, approveSpend, rejectSpend } = useApi();
   const navigate = useNavigate();
   
-  const [spends, setSpends] = useState<PaginatedResponse<Spend> | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
+  const [spends, setSpends] = useState<PaginationResponse<Spend> | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
 
   // Define roles based on Auth0 claims (consistent with Sidebar)
   const userRoles = (user?.['https://spendflow.com/roles'] as string[]) || [];
   const isApprover = userRoles.some(role => ['manager', 'finance', 'admin'].includes(role));
 
   const loadData = useCallback(async () => {
-    setIsLoading(true);
+    if (!user) return;
+    setIsLoading(false);
     try {
-      let data: PaginatedResponse<Spend>;
+      let data: PaginationResponse<Spend>;
       if (isApprover) {
         // Fetch items needing attention for managers
         data = await getPendingSpends(1, 5);
@@ -38,6 +39,7 @@ export function DashboardPage() {
     } catch (error) {
       toast.error('Failed to load dashboard data');
       console.error(error);
+      setSpends({data: [] });
     } finally {
       setIsLoading(false);
     }
@@ -49,7 +51,7 @@ export function DashboardPage() {
 
   const handleApprove = async (spend: Spend) => {
     try {
-      await approveSpend(spend.id, 'Approved via Dashboard Quick Action');
+      await approveSpend(spend.id,spend.user_name, 'approved','Approved via Dashboard Quick Action');
       toast.success('Expense approved');
       loadData();
     } catch (error) {
@@ -59,21 +61,23 @@ export function DashboardPage() {
 
   const handleReject = async (spend: Spend) => {
     try {
-      await rejectSpend(spend.id, 'Does not meet policy requirements');
+      await rejectSpend(spend.id,spend.user_name, 'rejected','Does not meet policy requirements');
       toast.success('Expense rejected');
       loadData();
     } catch (error) {
       toast.error('Rejection failed');
     }
   };
+  
+  const spendList = Array.isArray(spends?.items) ? spends.items : [];
 
-  // Stats derived from the current view
   const stats = {
-    totalValue: spends?.data.reduce((acc, s) => acc + s.amount, 0) || 0,
-    pendingCount: spends?.data.filter(s => s.status === 'pending').length || 0,
-    approvedCount: spends?.data.filter(s => s.status === 'approved').length || 0,
-    rejectedCount: spends?.data.filter(s => s.status === 'rejected').length || 0,
+    totalValue: spendList.reduce((acc, s) => acc + (s.amount || 0), 0),
+    pendingCount: spendList.filter(s => s.status === "pending").length,
+    approvedCount: spendList.filter(s => s.status === "approved").length,
+    rejectedCount: spendList.filter(s => s.status === "rejected").length,
   };
+
 
   return (
     <AppLayout
@@ -154,7 +158,7 @@ export function DashboardPage() {
             </div>
           ) : (
             <SpendTable
-              spends={spends?.data || []}
+              spends={spends?.items || []}
               showUser={isApprover}
               showActions={isApprover}
               onApprove={handleApprove}

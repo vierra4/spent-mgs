@@ -88,56 +88,100 @@ export function CreateSpendPage() {
 
   // Cloudinary Upload Logic
   const uploadToCloudinary = async (file: File): Promise<string> => {
-    const formData = new FormData();
-    formData.append('file', file);
-    // Use your unsigned upload preset name here
-    formData.append('upload_preset', import.meta.env.VITE_CLOUDINARY_UPLOAD_PRESET || 'spendflow_preset');
-
     const cloudName = import.meta.env.VITE_CLOUDINARY_CLOUD_NAME;
-    const response = await fetch(
-      `https://api.cloudinary.com/v1_1/${cloudName}/image/upload`,
-      { method: 'POST', body: formData }
+    const preset = import.meta.env.VITE_CLOUDINARY_UPLOAD_PRESET || "spendflow_preset";
+  
+    if (!cloudName) throw new Error("Cloudinary cloud name missing");
+  
+    const formData = new FormData();
+    formData.append("file", file);
+    formData.append("upload_preset", preset);
+  
+    const res = await fetch(
+      `https://api.cloudinary.com/v1_1/${cloudName}/auto/upload`,
+      {
+        method: "POST",
+        body: formData,
+      }
     );
-
-    if (!response.ok) throw new Error('Failed to upload image to Cloudinary');
-    const data = await response.json();
-    return data.secure_url;
+  
+    const json = await res.json();
+  
+    if (!res.ok) {
+      console.error("Cloudinary error:", json);
+      throw new Error("Upload failed");
+    }
+  
+    return json.secure_url;
   };
-
   const onSubmit = async (data: CreateSpendForm) => {
     if (!user) return;
-    
+  
     setIsSubmitting(true);
     const loadingToast = toast.loading('Processing your expense...');
-
+  
     try {
       let receipt_url = undefined;
-
-      // Upload to Cloudinary if file exists
+  
       if (uploadedFile) {
         toast.loading('Uploading receipt to Cloudinary...', { id: loadingToast });
         receipt_url = await uploadToCloudinary(uploadedFile);
       }
-
-      // Submit to Backend
-      toast.loading('Saving expense details...', { id: loadingToast });
+  
       const spend = await createSpend({
         amount: data.amount,
         currency: data.currency,
         category: data.category,
         description: data.description,
-        receipt_url: receipt_url,
+        spend_date: new Date().toISOString().split('T')[0], // fix
+        source: 'dashboard', // fix
+        receipt_url,
       });
-      
+  
       toast.success('Expense submitted successfully!', { id: loadingToast });
       navigate(`/spends/${spend.id}`);
-    } catch (error) {
-      console.error(error);
+    } catch (error: any) {
+      console.error('API RAW ERROR:', error.response || error);
       toast.error('Submission failed. Please try again.', { id: loadingToast });
     } finally {
       setIsSubmitting(false);
     }
   };
+  
+  // const onSubmit = async (data: CreateSpendForm) => {
+  //   if (!user) return;
+    
+  //   setIsSubmitting(true);
+  //   const loadingToast = toast.loading('Processing your expense...');
+
+  //   try {
+  //     let receipt_url = undefined;
+
+  //     // Upload to Cloudinary if file exists
+  //     if (uploadedFile) {
+  //       toast.loading('Uploading receipt to Cloudinary...', { id: loadingToast });
+  //       receipt_url = await uploadToCloudinary(uploadedFile);
+  //     }
+
+  //     // Submit to Backend
+  //     toast.loading('Saving expense details...', { id: loadingToast });
+  //     const spend = await createSpend({
+  //       amount: data.amount,
+  //       currency: data.currency,
+  //       category: data.category,
+  //       description: data.description,
+  //       receipt_url: receipt_url,
+  //     });
+      
+  //     toast.success('Expense submitted successfully!', { id: loadingToast });
+  //     navigate(`/spends/${spend.id}`);
+  //   } catch (error) {
+  //     console.error(error);
+  //     toast.error('Submission failed. Please try again.', { id: loadingToast });
+  //   } finally {
+  //     setIsSubmitting(false);
+  //   }
+  // };
 
   return (
     <AppLayout title="Create Spend">

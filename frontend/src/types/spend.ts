@@ -122,6 +122,7 @@ export interface Notification {
   read: boolean;
   metadata?: Record<string, any>;
   created_at: ISODateString;
+  type?: string; // e.g. "approval_request", "policy_violation", etc.
 }
 
 export interface AuditLog {

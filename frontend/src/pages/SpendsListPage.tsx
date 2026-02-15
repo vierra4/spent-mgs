@@ -96,7 +96,7 @@ export function SpendsListPage() {
             </div>
           </CardHeader>
           <CardContent className="p-0">
-            {spends?.data.length === 0 && !isLoading ? (
+            {spends?.data?.length === 0 && !isLoading ? (
               <EmptyState onAdd={() => navigate('/spends/new')} />
             ) : (
               <SpendTable
@@ -104,8 +104,7 @@ export function SpendsListPage() {
                 isLoading={isLoading}
               />
             )}
-            
-            {/* Professional Pagination Footer */}
+      
             {spends && (
               <div className="flex items-center justify-between px-6 py-4 bg-slate-50/50 border-t border-slate-100">
                 <p className="text-xs font-medium text-slate-500 italic">

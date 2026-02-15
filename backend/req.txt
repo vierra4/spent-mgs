@@ -10,3 +10,6 @@ fastapi-admin
 aioredis
 redis
 starlette-admin[tortoise]
+aiosmtplib
+tornadmin
+aerich

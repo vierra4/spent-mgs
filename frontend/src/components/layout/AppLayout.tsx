@@ -27,21 +27,29 @@ export function AppLayout({ children, title, actions }: AppLayoutProps) {
 
   // Fetch notifications
   useEffect(() => {
+    if (!isAuthenticated) return;
+  
+    let isMounted = true;
+  
     const fetchUnreadCount = async () => {
       try {
-        const response = await getNotifications(true);
-        setUnreadCount(response.total);
-      } catch (error) {
-        console.error("Unread fetch failed:", error);
+        const response = await getNotifications({ unreadOnly: true });
+        if (isMounted) setUnreadCount(response.total);
+      } catch (e) {
+        console.error(e);
       }
     };
-
-    if (isAuthenticated) {
-      fetchUnreadCount();
-      const interval = setInterval(fetchUnreadCount, 60000); // Poll every 1m
-      return () => clearInterval(interval);
-    }
-  }, [isAuthenticated, getNotifications]);
+  
+    fetchUnreadCount();
+  
+    const interval = setInterval(fetchUnreadCount, 60000);
+  
+    return () => {
+      isMounted = false;
+      clearInterval(interval);
+    };
+  }, [isAuthenticated]);
+  
 
   if (isLoading) {
     return (

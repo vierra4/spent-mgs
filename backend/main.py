@@ -7,7 +7,7 @@ from routes import users,spends,approvals,receipts, events, notifications, audit
 from fastapi.middleware.cors import CORSMiddleware
 from db import init_db, close_db
 from contextlib import asynccontextmanager
-from models.models import User, Organization, IdempotencyKey
+from models.models import Category, User, Organization, IdempotencyKey
 import bcrypt
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -55,4 +55,12 @@ def public():
    }
    return result
 
-
+@app.get("/debug-orgs")
+async def debug_orgs():
+    return await Category.all().values()
+@app.get("/debug-users")
+async def debug_users():
+    return await User.all().values()
+# @app.get("/debug-orgs_users")
+# async def debug_orgs_users ():
+#     return await User.filter(org_id="")all().values()

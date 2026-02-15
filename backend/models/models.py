@@ -25,13 +25,17 @@ class User(BaseModel):
     organization = fields.ForeignKeyField(
         "models.Organization",
         related_name="users",
-        on_delete=fields.CASCADE
+        on_delete=fields.CASCADE,
+        null=True,
+        blank=True
     )
     email = fields.CharField(max_length=255, unique=True)
+    auth_id = fields.CharField(max_length=255, unique=True, null=True)  # Store Auth0 user ID
     full_name = fields.CharField(max_length=255)
+    username = fields.CharField(max_length=255, null=True)  # Optional username field
     role = fields.CharField(max_length=50)
     is_active = fields.BooleanField(default=True)
-    hash_password = fields.CharField(max_length=255)
+    hash_password = fields.CharField(max_length=255, null=True)
     is_superuser = fields.BooleanField(default=False)
     avatar_url = fields.TextField(null=True)
 

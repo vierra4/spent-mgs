@@ -1,19 +1,24 @@
 from tortoise import Tortoise
 from auth.config import get_settings
+
 settings = get_settings()
 
-
+# Config dictionary for Tortoise + Aerich
+TORTOISE_ORM = {
+    "connections": {"default": settings.db_url},
+    "apps": {
+        "models": {
+            "models": ["models.models"],  # your models
+            "default_connection": "default",
+        }
+    }
+}
 
 async def init_db() -> None:
-    await Tortoise.init(
-        db_url=settings.DB_URL,
-        modules={"models": ["models.models"]},
-    )
-    print(Tortoise.apps)
-
-    await Tortoise.generate_schemas()
-
+    await Tortoise.init(config=TORTOISE_ORM)
+    # print(Tortoise.apps)
+    # Only generate schemas for development/testing
+    # await Tortoise.generate_schemas()
 
 async def close_db() -> None:
     await Tortoise.close_connections()
-    

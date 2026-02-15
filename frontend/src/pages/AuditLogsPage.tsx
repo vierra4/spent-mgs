@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { useApi } from '@/lib/api';
-import { AuditLogEntry, PaginatedResponse } from '@/types/spend';
+import { AuditLog, PaginationResponse } from '@/types/spend';
 import { formatDateTime } from '@/lib/constants';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -45,7 +45,7 @@ import { useNavigate } from 'react-router-dom';
 export function AuditLogsPage() {
   const navigate = useNavigate();
   const { getAuditLogs } = useApi();
-  const [logs, setLogs] = useState<PaginatedResponse<AuditLogEntry> | null>(null);
+  const [logs, setLogs] = useState<PaginationResponse<AuditLog> | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [filters, setFilters] = useState<{

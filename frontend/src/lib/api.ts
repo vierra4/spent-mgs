@@ -2,12 +2,12 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { useCallback } from "react";
 import { 
   Spend, 
-  PaginatedResponse, 
+  PaginationResponse, 
   CreateSpendFormData, 
   Notification, 
   User,
   Policy,
-  AuditLogEntry, 
+  AuditLog, 
   Category
 } from "@/types/spend";
 
@@ -38,7 +38,8 @@ export const useApi = () => {
 
       if (!response.ok) {
         const errorData = await response.json().catch(() => ({ detail: "Unknown API Error" }));
-        throw new Error(errorData.detail || "API Request Failed");
+        console.error("API RAW ERROR:", errorData);
+        throw new Error(JSON.stringify(errorData, null, 2));
       }
 
       // Handle 204 No Content
@@ -49,7 +50,7 @@ export const useApi = () => {
       return await response.json();
     } catch (error: any) {
       console.error(`[API Error] ${endpoint}:`, error.message);
-      throw error;
+      throw new Error(JSON.stringify(error.data, null, 2));
     }
   }, [getAccessTokenSilently]);
 
@@ -74,10 +75,10 @@ export const useApi = () => {
 
     // Spends
     getSpends: (filters: any = {}) => 
-      request<PaginatedResponse<Spend>>(`/spends${buildQueryString(filters)}`),
+      request<PaginationResponse<Spend>>(`/spends${buildQueryString(filters)}`),
 
     getPendingSpends: (page: number = 1, pageSize: number = 10) => 
-      request<PaginatedResponse<Spend>>(`/spends${buildQueryString({ status: 'pending', page, limit: pageSize })}`),
+      request<PaginationResponse<Spend>>(`/spends${buildQueryString({ status: 'pending', page, limit: pageSize })}`),
       
     getSpend: (id: string) => 
       request<Spend>(`/spends/${id}`),
@@ -146,7 +147,7 @@ export const useApi = () => {
 
     //  Notifications 
     getNotifications: (params: { page?: number; pageSize?: number; unreadOnly?: boolean } = {}) => 
-      request<PaginatedResponse<Notification>>(`/notifications${buildQueryString(params)}`),
+      request<PaginationResponse<Notification>>(`/notifications${buildQueryString(params)}`),
       
     markNotificationRead: (id: string) => 
       request<void>(`/notifications/${id}/read`, { method: "POST" }),
@@ -164,6 +165,6 @@ export const useApi = () => {
       action?: string; 
       entityType?: string 
     }) => 
-      request<PaginatedResponse<AuditLogEntry>>(`/audit-logs${buildQueryString(filters)}`),
+      request<PaginationResponse<AuditLog>>(`/audit-logs${buildQueryString(filters)}`),
   };
 };

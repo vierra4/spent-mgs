@@ -3,45 +3,36 @@ from tortoise.transactions import in_transaction
 
 async def create_user_from_auth0(user_data: dict):
     """
-    Handles provisioning a new user and their organization.
-    No more splitting email domains—we use the Auth0 data.
+    Handles provisioning a new user.
+    This function only creates the user; organization linking
+    is handled separately by 'organization.member.created' events.
     """
     email = user_data.get("email")
-    name = user_data.get("name") or user_data.get("nickname")
-    
-    # Get Organization info from Auth0 metadata or event
-    # If using Auth0 Organizations, it's usually in 'organization_id'
-    # If custom, we use app_metadata
-    app_metadata = user_data.get("app_metadata", {})
-    org_id = user_data.get("organization_id") or app_metadata.get("org_id")
-    org_name = user_data.get("organization_name") or app_metadata.get("org_name")
+    if not email:
+        raise ValueError("User email is required for creation")
+
+    name = user_data.get("username") or user_data.get("nickname", "Unnamed User")
     
     # Fallback for role
+    app_metadata = user_data.get("app_metadata", {})
     role = app_metadata.get("role", "employee")
 
     async with in_transaction():
-        # use the real name/ID provided
-        # If no org info is provided, we use a default "Personal" instance
-        org, _ = await Organization.get_or_create(
-            id=org_id if org_id else None,
-            defaults={
-                "name": org_name if org_name else f"{name}'s Org",
-                "domain": email.split("@")[-1] if email else None
-            }
-        )
-
-        # 2. Create the User linked to that Org
+        # Only create the user
         user, created = await User.get_or_create(
             email=email,
             defaults={
                 "full_name": name,
-                "organization": org,
+                "auth_id": user_data.get("user_id"),  # Store Auth0 user ID for reference
+                "username": user_data.get("username"),
+                "hash_password": user_data.get("password") or None,
                 "role": role,
                 "is_active": True
             }
         )
-        
-        return user
+
+    return user
+
 
 async def update_user_from_auth0(user_data: dict):
     """
@@ -93,7 +84,7 @@ async def sync_user_roles_from_auth0(user_data: dict):
         # Take the highest priority role
         user.role = roles[0] 
         await user.save()
-    return users
+    return user
 
 async def handle_role_assignment(data: dict, action: str):
     """
@@ -114,14 +105,27 @@ async def handle_role_assignment(data: dict, action: str):
     await user.save()
     
 from models import Organization, Category, Policy
-
+org_data_example ={
+  "name": "my-organization",
+  "id": "org_1234567890abcdef",
+  "display_name": "My Organization",
+  "metadata": {},
+  "branding": {
+    "logo_url": "https://example.com",
+    "colors": {
+      "primary": "#0059d6",
+      "page_background": "#000000"
+    }
+  }
+}
 async def initialize_organization_workspace(org_data: dict):
-    org_id = org_data.get("id")
+    print("Initializing workspace for organization:", org_data.get("name"))
+    org_id = org_data.get("id") or org_data.get("display_name") or "Unnamed Org"or org_data.get("display_name") or "Unnamed Org"
     org_name = org_data.get("name")
 
     # Get or Create the Organization
     org, created = await Organization.get_or_create(
-        id=org_id,
+        auth_id=org_id,
         defaults={"name": org_name}
     )
 
@@ -144,3 +148,76 @@ async def initialize_organization_workspace(org_data: dict):
         )
         
     return org    
+from models.models import Organization
+from tortoise.transactions import in_transaction
+
+async def handle_organization_deleted(org_data: dict):
+    """
+    Handles Auth0 'organization.deleted' events.
+
+    org_data: payload['data']['object'] from Auth0
+    """
+    org_id = org_data.get("id")
+    if not org_id:
+        raise ValueError("Organization ID missing in deleted event")
+
+    async with in_transaction():
+        org = await Organization.get_or_none(auth_id=org_id)
+        if not org:
+            # Already deleted or never existed
+            return {"status": "not found"}
+
+        # # Option 1: Soft delete
+        # org.is_active = False  # Assuming you have an is_active boolean field
+        # await org.save()
+
+        # Option 2: Hard delete (uncomment if you want)
+        await org.delete()
+
+    return {"status": "deleted", "organization": org_id}
+
+
+async def handle_organization_user_link(event_object: dict):
+    """
+    Links an existing user to an organization.
+
+    Expected event_object format:
+    {
+      "organization": {"id": "...", "name": "..."},
+      "user": {"user_id": "..."}
+    }
+
+    Note: User must already exist (created by 'user.created' event).
+    """
+    print("Handling organization.member.created event with data:", event_object)
+    org_info = event_object.get("organization", {})
+    user_info = event_object.get("user", {})
+
+    org_id = org_info.get("id")
+    org_name = org_info.get("name", "Unnamed Org")
+    auth0_user_id = user_info.get("user_id")
+
+    if not org_id or not auth0_user_id:
+        raise ValueError("Organization ID or User ID missing in member.created event")
+
+    async with in_transaction():
+        # 1. Find or create the organization
+        org, _ = await Organization.get_or_create(
+            auth_id=org_id,
+            defaults={"name": org_name}
+        )
+
+        # 2. Find the existing user
+        user = await User.get_or_none(auth_id=auth0_user_id)
+        if not user:
+            # User not yet created → just log or skip
+            print(f"User {auth0_user_id} not found, cannot link to org {org_id}")
+            return {"status": "user not found", "user": auth0_user_id, "org": org_id}
+
+        # 3. Link user to org
+        user.organization = org
+        user.is_active = True  # activate if previously inactive
+        await user.save()
+
+    print(f"User {auth0_user_id} linked to organization {org_id}")
+    return {"status": "linked", "user": auth0_user_id, "org": org_id}

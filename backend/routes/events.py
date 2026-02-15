@@ -3,11 +3,13 @@ from fastapi import APIRouter, Request, HTTPException, status, Header
 from services.idempotency_service import is_duplicate
 from services.user_service import (
     create_user_from_auth0,
+    handle_organization_deleted,
     update_user_from_auth0,
     delete_user_from_auth0,
     initialize_organization_workspace, 
     handle_role_assignment, 
-    sync_user_roles_from_auth0
+    sync_user_roles_from_auth0,
+    handle_organization_user_link
 )
 from auth.config import get_settings
 settings = get_settings()
@@ -27,6 +29,7 @@ async def handle_auth0_webhook(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Unauthorized webhook source"
         )
+    print("Received webhook with valid secret. Processing event...")    
 
     try:
         event_data = await request.json()
@@ -37,6 +40,7 @@ async def handle_auth0_webhook(
         )
 
     event_id = event_data.get("id")
+    print(f"Processing event ID: {event_id}, Type: {event_data.get('type')}")
     event_type = event_data.get("type")
     # N.B: Auth0 'Post-User Registration' sends the user directly in 'user'
     # but other custom events might use 'data.object'. 
@@ -57,6 +61,7 @@ async def handle_auth0_webhook(
     match event_type:
         case "user.created":
             # Initial provisioning (Org + User)
+            print("User created event received for user_id:", user_data.get("user_id"))
             await create_user_from_auth0(user_data)
         
         case "user.updated":
@@ -65,11 +70,13 @@ async def handle_auth0_webhook(
         
         case "user.deleted":
             # Soft delete or cleanup
+            print("User deleted event received for user_id:", user_data.get("user_id"))
             await delete_user_from_auth0(user_data.get("user_id"))
 
         case "roles.changed":
             # Custom event for when an admin promotes/demotes someone
             await sync_user_roles_from_auth0(user_data)
+            print("Roles changed event processed for user:", user_data.get("user_id"))
 
         case _:
             return {
@@ -88,13 +95,15 @@ async def handle_auth0_stream(
 ):
     # Check the Bearer Token you set in the Auth0 Stream Dashboard
     # 'Bearer your-provided-token'
-    if not authorization or settings.AUTHORIZATION_HEADER_STREAMS_AUTH0_TOKEN not in authorization:
+    if not authorization or settings.authorization_header_streams_auth0_token not in authorization:
         raise HTTPException(status_code=401, detail="Unauthorized Stream")
 
     payload = await request.json()
+    print(f"Received stream payload: {payload}")
     
     # Log Streams can send a single event or a list
     events = payload if isinstance(payload, list) else [payload]
+    print(f"Processing {len(events)} event(s) from stream...")
 
     for event in events:
         event_type = event.get("type")
@@ -103,18 +112,23 @@ async def handle_auth0_stream(
         match event_type:
            
             case "organization.created":
-                await initialize_organization_workspace(data)
+                await initialize_organization_workspace(data["object"])
+                print("Organization created event processed for organization:", data["object"].get("id"))
             
             case "organization.deleted":
-   
-                pass
+                await handle_organization_deleted(data["object"])
+                print("Organization deleted event processed for organization:", data["object"].get("id"))
+            case "organization.member.added":
+
+                await handle_organization_user_link(data["object"])
+                print("Role assigned event processed for user:", data["object"].get("user_id"))
 
             #  User Events 
             case "user.created":
-                await create_user_from_auth0(data)
+                await create_user_from_auth0(data["object"])
 
             case "user.deleted":
-                await delete_user_from_auth0(data.get("user_id"))
+                await delete_user_from_auth0(data["object"].get("user_id"))
 
             # Role Events 
             case "organization.member.role.assigned":

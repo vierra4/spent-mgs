@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { useAuth0 } from '@auth0/auth0-react';
 import { useApi } from '@/lib/api';
-import { Notification, PaginatedResponse } from '@/types/spend';
+import { Notification, NotificationListResponse, PaginationResponse } from '@/types/spend';
 import { getRelativeTime } from '@/lib/constants';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -24,25 +24,35 @@ export function NotificationsPage() {
   const { user } = useAuth0();
   const navigate = useNavigate();
   const { getNotifications, markNotificationRead, markAllNotificationsRead } = useApi();
-  
-  const [notifications, setNotifications] = useState<PaginatedResponse<Notification> | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [notifications, setNotifications] = useState<NotificationListResponse>({
+    items: [],
+    total: 0,
+    limit: 20,
+    offset: 0
+  });
+  
 
   useEffect(() => {
-    if (user) loadNotifications();
-  }, [user]);
-
-  const loadNotifications = async () => {
-    setIsLoading(true);
-    try {
-      const data = await getNotifications({ pageSize: 20 });
-      setNotifications(data);
-    } catch (error) {
-      toast.error('Could not sync notifications');
-    } finally {
-      setIsLoading(false);
-    }
-  };
+    if (!user) return;
+  
+    const fetchNotifications = async () => {
+      try {
+        const data = await getNotifications({ pageSize: 20 });
+        setNotifications(data);
+      } catch (err) {
+        console.error("Failed to fetch notifications", err);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+  
+    fetchNotifications(); // initial fetch
+  
+    const interval = setInterval(fetchNotifications, 30000); // fetch every 30s
+    return () => clearInterval(interval); // cleanup on unmount
+  }, [user]); // dependency is just user
+  
 
   const handleNotificationClick = async (notification: Notification) => {
     if (!notification.read) {
@@ -71,7 +81,7 @@ export function NotificationsPage() {
       await markAllNotificationsRead(user.sub);
       setNotifications(prev => prev ? {
         ...prev,
-        data: prev.data.map(n => ({ ...n, read: true }))
+        data: prev.items.map(n => ({ ...n, read: true }))
       } : null);
       toast.success("All caught up!", { id: toastId });
     } catch (error) {
@@ -92,7 +102,9 @@ export function NotificationsPage() {
     }
   };
 
-  const unreadCount = notifications?.data.filter(n => !n.read).length || 0;
+  const unreadCount = Array.isArray(notifications.items)
+  ? notifications.items.filter(n => !n.read).length
+  : 0;
 
   return (
     <AppLayout
@@ -134,11 +146,11 @@ export function NotificationsPage() {
           <CardContent className="p-0">
             {isLoading ? (
               <LoadingSkeleton />
-            ) : notifications?.data.length === 0 ? (
+            ) : notifications?.items.length === 0 ? (
               <EmptyState />
             ) : (
               <div className="divide-y divide-slate-100">
-                {notifications?.data.map((notification) => {
+                {notifications?.items.map((notification) => {
                   const config = getStatusConfig(notification.type);
                   const Icon = config.icon;
 
@@ -167,7 +179,7 @@ export function NotificationsPage() {
                             {notification.title}
                           </p>
                           <span className="text-[10px] font-medium text-slate-400 whitespace-nowrap">
-                            {getRelativeTime(notification.createdAt)}
+                            {getRelativeTime(notification.created_at)}
                           </span>
                         </div>
                         <p className="text-sm text-slate-500 line-clamp-2 mt-0.5">
