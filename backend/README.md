@@ -1,8 +1,8 @@
 flowchart TD
     %% Users
-    A[Employee / Manager / Finance / Admin] -->|Submit Spend| B[FastAPI Backend]
+    A[User/Employee] -->|Submit Spend| B[FastAPI Backend]
 
-    %% Backend
+    %% Backend Services
     B --> C[SpendService]
     B --> D[PolicyService]
     B --> E[ApprovalService]
@@ -10,39 +10,30 @@ flowchart TD
     B --> G[AuditService]
     B --> H[Gemini Extraction Service]
 
-    %% DB
-    B --> I[(PostgreSQL / Tortoise ORM)]
-    C --> I
-    D --> I
-    E --> I
-    F --> I
-    G --> I
-    H --> I
+    %% DB Logic
+    I[(PostgreSQL / Tortoise ORM)]
+    C & D & E & F & G & H --- I
 
-    %% Auth
+    %% Auth Flow
     A -->|Login / Token| J[Auth0]
     B -->|Validate JWT & Roles| J
 
     %% Notification Flow
-    E -->|Create approval| F
-    F -->|Store notification| I
-    A -->|Poll notifications| F
+    E -->|Create Approval| F
+    F -->|Store Notification| I
+    A -->|Poll Notifications| F
 
-    %% Policy Evaluation
-    C -->|Send spend| D
-    D -->|Return actions| C
-    C -->|Trigger approval / auto-approve| E
-
-    %% Gemini Extraction
-    C -->|Invoice / Receipt| H
+    %% Policy & Gemini Logic
+    C -->|Evaluate| D
+    D -->|Return Actions| C
+    C -->|Process Document| H
     H -->|Structured Data| C
+    C -->|Trigger| E
 
-    %% Audit Logs
-    C --> G
-    D --> G
-    E --> G
-    H --> G
+    %% Audit
+    C & D & E & H --> G
 
+    %% Styles
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:2px
     style I fill:#bfb,stroke:#333,stroke-width:2px
