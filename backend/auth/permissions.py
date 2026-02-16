@@ -3,15 +3,13 @@ from auth.dependencies import get_current_user
 from auth.roles import Role
 
 def require_role(*allowed_roles: Role):
-    # This function is the actual FastAPI dependency
     async def checker(user=Depends(get_current_user)):
-        # Convert the Enum values to a list of strings
         allowed_values = [r.value for r in allowed_roles]
-        
-        if user.role not in allowed_values:
-            raise HTTPException(
-                status_code=status.HTTP_403_FORBIDDEN,
-                detail=f"Insufficient permissions. Required: {allowed_values}"
-            )
+
+        user_roles = user.role if isinstance(user.role, list) else [user.role]
+
+        if not any(role in allowed_values for role in user_roles):
+            raise HTTPException(403, "Insufficient permissions")
+
         return user
     return checker

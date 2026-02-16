@@ -11,14 +11,19 @@ class ReceiptUploadRequest(BaseModel):
 
 @router.post("")
 async def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):
-    spend = await SpendEvent.get(id=spend_id)
+    spend = await SpendEvent.get_or_none(id=spend_id)
+    if not spend:
+        raise HTTPException(status_code=404, detail="Spend event not found")
 
-    file_bytes = await file.read()
+    try:
+        file_bytes = await file.read()
 
-    receipt = await attach_receipt(
-        spend=spend,
-        file_bytes=file_bytes,
-        background_tasks=background_tasks
-    )
+        receipt = await attach_receipt(
+            spend=spend,
+            file_bytes=file_bytes,
+            background_tasks=background_tasks
+        )
 
-    return receipt
+        return receipt
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to upload receipt: {e}")

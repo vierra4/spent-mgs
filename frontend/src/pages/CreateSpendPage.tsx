@@ -6,7 +6,7 @@ import { z } from 'zod';
 import { useAuth0 } from '@auth0/auth0-react';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { useApi } from '@/lib/api';
-import { SpendCategory, Currency } from '@/types/spend';
+import { Currency } from '@/types/spend';
 import { CATEGORY_LABELS, CURRENCY_SYMBOLS } from '@/lib/constants';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';

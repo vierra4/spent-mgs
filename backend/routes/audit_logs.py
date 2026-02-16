@@ -7,15 +7,13 @@ router = APIRouter(prefix="/audit-logs", tags=["Audit Logs"])
 
 @router.get("")
 async def list_audit_logs(
-    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),
+    user=Depends(require_role(Role.ADMIN)),
     limit: int = Query(50, ge=1, le=100),
     offset: int = Query(0, ge=0),
     action: str | None = None,
     entity_type: str | None = None,
     actor_id: str | None = None
 ):
-    if user.role != Role.ADMIN.value:
-        raise HTTPException(status_code=403, detail="Admin access only")
 
     qs = AuditLog.filter(organization=user.organization)
 
@@ -35,5 +33,10 @@ async def list_audit_logs(
         "total": total,
         "limit": limit,
         "offset": offset,
-        "items": logs
+        "items": logs,
+        "user": {
+            "id": str(user.id),
+            "username": user.username,
+            "email": user.email
+        }
     }

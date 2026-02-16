@@ -61,7 +61,7 @@ export function ApprovalsPage() {
   };
 
   // Calculate quick summary for the manager
-  const totalPendingAmount = spends?.data.reduce((acc, curr) => acc + curr.amount, 0) || 0;
+  const totalPendingAmount = spends?.items?.reduce((acc, curr) => acc + curr.amount, 0) || 0;
 
   return (
     <AppLayout title="Approvals">
@@ -83,7 +83,7 @@ export function ApprovalsPage() {
           />
           <StatCard 
             title="Policy Flags" 
-            value={spends?.data.filter(s => !s.policy_passed).length.toString() || '0'} 
+            value={spends?.items?.filter(s => !s.policy_passed).length.toString() || '0'} 
             icon={ShieldCheck}
             color="text-amber-600"
           />

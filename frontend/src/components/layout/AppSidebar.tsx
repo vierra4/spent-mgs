@@ -31,6 +31,9 @@ export function AppSidebar() {
 
   // Role Logic: Adjust the key to match your Auth0 Action/Rule namespace
   const userRoles: string[] = (user?.['https://spendflow.com/roles'] as string[]) || [];
+  console.log('User Roles:', userRoles); // Debugging line to check roles
+  console.log('Full user object:', user); // Check what's actually in the user object
+  console.log('User Roles:', userRoles);
   
   const hasRole = (allowedRoles: string[]) => {
     return allowedRoles.some(role => userRoles.includes(role));

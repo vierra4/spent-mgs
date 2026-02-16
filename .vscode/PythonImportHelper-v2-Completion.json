@@ -240,6 +240,102 @@
         "documentation": {}
     },
     {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "APIRouter",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -257,6 +353,358 @@
     },
     {
         "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -785,6 +1233,270 @@
     },
     {
         "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -2064,6 +2776,54 @@
         "documentation": {}
     },
     {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
         "label": "User_Pydantic",
         "importPath": "models.models",
         "description": "models.models",
@@ -2097,6 +2857,270 @@
     },
     {
         "label": "UserIn_Pydantic",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AuditLog",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
         "importPath": "models.models",
         "description": "models.models",
         "isExtraImport": true,
@@ -4168,11 +5192,27 @@
         "documentation": {}
     },
     {
-        "label": "get_settings",
-        "importPath": "auth.config",
-        "description": "auth.config",
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
         "isExtraImport": true,
-        "detail": "auth.config",
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
         "documentation": {}
     },
     {
@@ -4533,6 +5573,870 @@
         "description": "auth.config",
         "isExtraImport": true,
         "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "auth.dependencies",
+        "description": "auth.dependencies",
+        "isExtraImport": true,
+        "detail": "auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "auth.roles",
+        "description": "auth.roles",
+        "isExtraImport": true,
+        "detail": "auth.roles",
         "documentation": {}
     },
     {
@@ -5210,6 +7114,182 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Optional",
         "importPath": "typing",
         "description": "typing",
@@ -5368,6 +7448,190 @@
         "description": "tortoise.contrib.pydantic",
         "isExtraImport": true,
         "detail": "tortoise.contrib.pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "importPath": "auth.permissions",
+        "description": "auth.permissions",
+        "isExtraImport": true,
+        "detail": "auth.permissions",
         "documentation": {}
     },
     {
@@ -6468,7 +8732,79 @@
         "documentation": {}
     },
     {
-        "label": "Field",
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
         "importPath": "pydantic",
         "description": "pydantic",
         "isExtraImport": true,
@@ -6500,6 +8836,22 @@
         "documentation": {}
     },
     {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
         "label": "BaseModel",
         "importPath": "pydantic",
         "description": "pydantic",
@@ -6537,454 +8889,6 @@
         "description": "pydantic",
         "isExtraImport": true,
         "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "auth.dependencies",
-        "description": "auth.dependencies",
-        "isExtraImport": true,
-        "detail": "auth.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
-        "documentation": {}
-    },
-    {
-        "label": "Role",
-        "importPath": "auth.roles",
-        "description": "auth.roles",
-        "isExtraImport": true,
-        "detail": "auth.roles",
         "documentation": {}
     },
     {
@@ -9880,22 +11784,6 @@
         "documentation": {}
     },
     {
-        "label": "require_role",
-        "importPath": "auth.permissions",
-        "description": "auth.permissions",
-        "isExtraImport": true,
-        "detail": "auth.permissions",
-        "documentation": {}
-    },
-    {
-        "label": "require_role",
-        "importPath": "auth.permissions",
-        "description": "auth.permissions",
-        "isExtraImport": true,
-        "detail": "auth.permissions",
-        "documentation": {}
-    },
-    {
         "label": "create_notification",
         "importPath": "services.notification_service",
         "description": "services.notification_service",
@@ -10227,6 +12115,78 @@
         "description": ".history.backend.auth.dependencies_20260215163859",
         "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:\n        raise HTTPException(403, \"User not provisioned\")",
         "detail": ".history.backend.auth.dependencies_20260215163859",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216171106",
+        "description": ".history.backend.auth.dependencies_20260216171106",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    print(claims)\n    auth_id = claims.get(\"sub\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")\n    user = await User.get_or_none(auth_id=auth_id)",
+        "detail": ".history.backend.auth.dependencies_20260216171106",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216171106",
+        "description": ".history.backend.auth.dependencies_20260216171106",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    print(claims)\n    auth_id = claims.get(\"sub\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:",
+        "detail": ".history.backend.auth.dependencies_20260216171106",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216174648",
+        "description": ".history.backend.auth.dependencies_20260216174648",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    print(claims)\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    print(f\"User roles from access token: {user_roles}\")",
+        "detail": ".history.backend.auth.dependencies_20260216174648",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216174648",
+        "description": ".history.backend.auth.dependencies_20260216174648",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    print(claims)\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    print(f\"User roles from access token: {user_roles}\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")",
+        "detail": ".history.backend.auth.dependencies_20260216174648",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216184143",
+        "description": ".history.backend.auth.dependencies_20260216184143",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:",
+        "detail": ".history.backend.auth.dependencies_20260216184143",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.auth.dependencies_20260216184143",
+        "description": ".history.backend.auth.dependencies_20260216184143",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:\n        raise HTTPException(403, \"User not provisioned\")",
+        "detail": ".history.backend.auth.dependencies_20260216184143",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "kind": 2,
+        "importPath": ".history.backend.auth.permissions_20260210153114",
+        "description": ".history.backend.auth.permissions_20260210153114",
+        "peekOfCode": "def require_role(*allowed_roles: Role):\n    # This function is the actual FastAPI dependency\n    async def checker(user=Depends(get_current_user)):\n        # Convert the Enum values to a list of strings\n        allowed_values = [r.value for r in allowed_roles]\n        if user.role not in allowed_values:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=f\"Insufficient permissions. Required: {allowed_values}\"\n            )",
+        "detail": ".history.backend.auth.permissions_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "require_role",
+        "kind": 2,
+        "importPath": ".history.backend.auth.permissions_20260216184305",
+        "description": ".history.backend.auth.permissions_20260216184305",
+        "peekOfCode": "def require_role(*allowed_roles: Role):\n    async def checker(user=Depends(get_current_user)):\n        allowed_values = [r.value for r in allowed_roles]\n        user_roles = user.role if isinstance(user.role, list) else [user.role]\n        if not any(role in allowed_values for role in user_roles):\n            raise HTTPException(403, \"Insufficient permissions\")\n        return user\n    return checker",
+        "detail": ".history.backend.auth.permissions_20260216184305",
         "documentation": {}
     },
     {
@@ -11121,6 +13081,105 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260210153114",
+        "description": ".history.backend.routes.audit_logs_20260210153114",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260210153114",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216182808",
+        "description": ".history.backend.routes.audit_logs_20260216182808",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216182808",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216182818",
+        "description": ".history.backend.routes.audit_logs_20260216182818",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216182818",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216182931",
+        "description": ".history.backend.routes.audit_logs_20260216182931",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(get_current_user),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216182931",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216183123",
+        "description": ".history.backend.routes.audit_logs_20260216183123",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(get_current_user),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216183123",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216185117",
+        "description": ".history.backend.routes.audit_logs_20260216185117",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216185117",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216185238",
+        "description": ".history.backend.routes.audit_logs_20260216185238",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216185238",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216185316",
+        "description": ".history.backend.routes.audit_logs_20260216185316",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216185316",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216191721",
+        "description": ".history.backend.routes.audit_logs_20260216191721",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216191721",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216192512",
+        "description": ".history.backend.routes.audit_logs_20260216192512",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216192512",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.audit_logs_20260216192608",
+        "description": ".history.backend.routes.audit_logs_20260216192608",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "detail": ".history.backend.routes.audit_logs_20260216192608",
+        "documentation": {}
+    },
+    {
         "label": "settings",
         "kind": 5,
         "importPath": ".history.backend.routes.events_20260210153114",
@@ -11541,6 +13600,402 @@
         "description": ".history.backend.routes.policies_20260210210336",
         "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
         "detail": ".history.backend.routes.policies_20260210210336",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190251",
+        "description": ".history.backend.routes.policies_20260216190251",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190251",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190251",
+        "description": ".history.backend.routes.policies_20260216190251",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190251",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190251",
+        "description": ".history.backend.routes.policies_20260216190251",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190251",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190251",
+        "description": ".history.backend.routes.policies_20260216190251",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190251",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190338",
+        "description": ".history.backend.routes.policies_20260216190338",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190338",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190338",
+        "description": ".history.backend.routes.policies_20260216190338",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190338",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190338",
+        "description": ".history.backend.routes.policies_20260216190338",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190338",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190338",
+        "description": ".history.backend.routes.policies_20260216190338",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190338",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190500",
+        "description": ".history.backend.routes.policies_20260216190500",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190500",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190500",
+        "description": ".history.backend.routes.policies_20260216190500",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190500",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190500",
+        "description": ".history.backend.routes.policies_20260216190500",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190500",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190500",
+        "description": ".history.backend.routes.policies_20260216190500",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190500",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190637",
+        "description": ".history.backend.routes.policies_20260216190637",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190637",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190637",
+        "description": ".history.backend.routes.policies_20260216190637",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190637",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190637",
+        "description": ".history.backend.routes.policies_20260216190637",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(required_role=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190637",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190637",
+        "description": ".history.backend.routes.policies_20260216190637",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190637",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190726",
+        "description": ".history.backend.routes.policies_20260216190726",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190726",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190726",
+        "description": ".history.backend.routes.policies_20260216190726",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190726",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190726",
+        "description": ".history.backend.routes.policies_20260216190726",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role=[Role.FINANCE])):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190726",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190726",
+        "description": ".history.backend.routes.policies_20260216190726",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190726",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190900",
+        "description": ".history.backend.routes.policies_20260216190900",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216190900",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190900",
+        "description": ".history.backend.routes.policies_20260216190900",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216190900",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216190900",
+        "description": ".history.backend.routes.policies_20260216190900",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role=[Role.FINANCE])):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216190900",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216190900",
+        "description": ".history.backend.routes.policies_20260216190900",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216190900",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191259",
+        "description": ".history.backend.routes.policies_20260216191259",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216191259",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191259",
+        "description": ".history.backend.routes.policies_20260216191259",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216191259",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191259",
+        "description": ".history.backend.routes.policies_20260216191259",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(required_role=[Role.FINANCE])):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216191259",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216191259",
+        "description": ".history.backend.routes.policies_20260216191259",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216191259",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191546",
+        "description": ".history.backend.routes.policies_20260216191546",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216191546",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191546",
+        "description": ".history.backend.routes.policies_20260216191546",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216191546",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191546",
+        "description": ".history.backend.routes.policies_20260216191546",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216191546",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216191546",
+        "description": ".history.backend.routes.policies_20260216191546",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216191546",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191839",
+        "description": ".history.backend.routes.policies_20260216191839",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216191839",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191839",
+        "description": ".history.backend.routes.policies_20260216191839",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216191839",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191839",
+        "description": ".history.backend.routes.policies_20260216191839",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE or Role.ADMIN))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216191839",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216191839",
+        "description": ".history.backend.routes.policies_20260216191839",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216191839",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191919",
+        "description": ".history.backend.routes.policies_20260216191919",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216191919",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191919",
+        "description": ".history.backend.routes.policies_20260216191919",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216191919",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216191919",
+        "description": ".history.backend.routes.policies_20260216191919",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE or Role.ADMIN))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216191919",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216191919",
+        "description": ".history.backend.routes.policies_20260216191919",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216191919",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRuleCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216192448",
+        "description": ".history.backend.routes.policies_20260216192448",
+        "peekOfCode": "class PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str",
+        "detail": ".history.backend.routes.policies_20260216192448",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyCreateRequest",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216192448",
+        "description": ".history.backend.routes.policies_20260216192448",
+        "peekOfCode": "class PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []\nclass PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes ",
+        "detail": ".history.backend.routes.policies_20260216192448",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyResponse",
+        "kind": 6,
+        "importPath": ".history.backend.routes.policies_20260216192448",
+        "description": ".history.backend.routes.policies_20260216192448",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE,Role.ADMIN))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "detail": ".history.backend.routes.policies_20260216192448",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.backend.routes.policies_20260216192448",
+        "description": ".history.backend.routes.policies_20260216192448",
+        "peekOfCode": "router = APIRouter(prefix=\"/policies\", tags=[\"Policies\"])\n#  Request/Response schemas\nclass PolicyRuleCreateRequest(BaseModel):\n    condition: str\n    action: str\n    priority: int = 1\nclass PolicyCreateRequest(BaseModel):\n    name: str\n    is_active: bool = True\n    rules: Optional[List[PolicyRuleCreateRequest]] = []",
+        "detail": ".history.backend.routes.policies_20260216192448",
         "documentation": {}
     },
     {
@@ -12511,7 +14966,7 @@
         "kind": 5,
         "importPath": "backend.auth.dependencies",
         "description": "backend.auth.dependencies",
-        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:",
         "detail": "backend.auth.dependencies",
         "documentation": {}
     },
@@ -12520,7 +14975,7 @@
         "kind": 5,
         "importPath": "backend.auth.dependencies",
         "description": "backend.auth.dependencies",
-        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    print(f\"Authenticating user with Auth0 ID: {auth_id}\")\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:\n        raise HTTPException(403, \"User not provisioned\")",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n    domain=settings.auth0_domain,\n    audience=settings.auth0_api_audience\n)\nasync def get_current_user(claims=Depends(auth0.require_auth())):\n    auth_id = claims.get(\"sub\")\n    user_roles = claims.get(\"https://spendflow.com/roles\", [])\n    user = await User.get_or_none(auth_id=auth_id)\n    if not user:\n        raise HTTPException(403, \"User not provisioned\")",
         "detail": "backend.auth.dependencies",
         "documentation": {}
     },
@@ -12529,7 +14984,7 @@
         "kind": 2,
         "importPath": "backend.auth.permissions",
         "description": "backend.auth.permissions",
-        "peekOfCode": "def require_role(*allowed_roles: Role):\n    # This function is the actual FastAPI dependency\n    async def checker(user=Depends(get_current_user)):\n        # Convert the Enum values to a list of strings\n        allowed_values = [r.value for r in allowed_roles]\n        if user.role not in allowed_values:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=f\"Insufficient permissions. Required: {allowed_values}\"\n            )",
+        "peekOfCode": "def require_role(*allowed_roles: Role):\n    async def checker(user=Depends(get_current_user)):\n        allowed_values = [r.value for r in allowed_roles]\n        user_roles = user.role if isinstance(user.role, list) else [user.role]\n        if not any(role in allowed_values for role in user_roles):\n            raise HTTPException(403, \"Insufficient permissions\")\n        return user\n    return checker",
         "detail": "backend.auth.permissions",
         "documentation": {}
     },
@@ -12808,7 +15263,7 @@
         "kind": 5,
         "importPath": "backend.routes.audit_logs",
         "description": "backend.routes.audit_logs",
-        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN, Role.FINANCE)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
+        "peekOfCode": "router = APIRouter(prefix=\"/audit-logs\", tags=[\"Audit Logs\"])\n@router.get(\"\")\nasync def list_audit_logs(\n    user=Depends(require_role(Role.ADMIN)),\n    limit: int = Query(50, ge=1, le=100),\n    offset: int = Query(0, ge=0),\n    action: str | None = None,\n    entity_type: str | None = None,\n    actor_id: str | None = None\n):",
         "detail": "backend.routes.audit_logs",
         "documentation": {}
     },
@@ -12871,7 +15326,7 @@
         "kind": 6,
         "importPath": "backend.routes.policies",
         "description": "backend.routes.policies",
-        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):\n    policy = await Policy.create(\n        name=payload.name,",
+        "peekOfCode": "class PolicyResponse(BaseModel):\n    id: str\n    name: str\n    is_active: bool\n    rules: List[PolicyRuleCreateRequest]\n#  Routes \n@router.post(\"\", response_model=PolicyResponse)\nasync def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE,Role.ADMIN))):\n    policy = await Policy.create(\n        name=payload.name,",
         "detail": "backend.routes.policies",
         "documentation": {}
     },
@@ -12889,7 +15344,7 @@
         "kind": 6,
         "importPath": "backend.routes.receipts",
         "description": "backend.routes.receipts",
-        "peekOfCode": "class ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get(id=spend_id)\n    file_bytes = await file.read()\n    receipt = await attach_receipt(\n        spend=spend,\n        file_bytes=file_bytes,",
+        "peekOfCode": "class ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get_or_none(id=spend_id)\n    if not spend:\n        raise HTTPException(status_code=404, detail=\"Spend event not found\")\n    try:\n        file_bytes = await file.read()",
         "detail": "backend.routes.receipts",
         "documentation": {}
     },
@@ -12898,7 +15353,7 @@
         "kind": 5,
         "importPath": "backend.routes.receipts",
         "description": "backend.routes.receipts",
-        "peekOfCode": "router = APIRouter(prefix=\"/receipts\", tags=[\"Receipts\"])\nclass ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get(id=spend_id)\n    file_bytes = await file.read()\n    receipt = await attach_receipt(\n        spend=spend,",
+        "peekOfCode": "router = APIRouter(prefix=\"/receipts\", tags=[\"Receipts\"])\nclass ReceiptUploadRequest(BaseModel):\n    spend_id: str\n    file_url: str\n@router.post(\"\")\nasync def upload_receipt(file: UploadFile, spend_id: str, background_tasks: BackgroundTasks, user=Depends(get_current_user)):\n    spend = await SpendEvent.get_or_none(id=spend_id)\n    if not spend:\n        raise HTTPException(status_code=404, detail=\"Spend event not found\")\n    try:",
         "detail": "backend.routes.receipts",
         "documentation": {}
     },

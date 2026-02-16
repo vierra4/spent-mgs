@@ -133,6 +133,11 @@ export interface AuditLog {
   action: string;
   metadata?: Record<string, any>;
   created_at: ISODateString;
+  user?:{
+    id: string,
+    username: string,
+    email: string
+  };
 }
 
 /*

@@ -13,11 +13,14 @@ auth0 = Auth0FastAPI(
 
 async def get_current_user(claims=Depends(auth0.require_auth())):
     auth_id = claims.get("sub")
-    print(f"Authenticating user with Auth0 ID: {auth_id}")
+    user_roles = claims.get("https://spendflow.com/roles", [])
 
     user = await User.get_or_none(auth_id=auth_id)
 
     if not user:
         raise HTTPException(403, "User not provisioned")
 
+    user.role = user_roles
+
     return user
+

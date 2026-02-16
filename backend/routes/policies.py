@@ -4,7 +4,7 @@ from typing import List, Optional
 from models.models import Policy, PolicyRule
 from auth.dependencies import get_current_user
 from auth.roles import Role
-
+from auth.permissions import require_role
 router = APIRouter(prefix="/policies", tags=["Policies"])
 
 #  Request/Response schemas
@@ -26,7 +26,7 @@ class PolicyResponse(BaseModel):
 
 #  Routes 
 @router.post("", response_model=PolicyResponse)
-async def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):
+async def create_policy(payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE,Role.ADMIN))):
     policy = await Policy.create(
         name=payload.name,
         is_active=payload.is_active,
@@ -49,7 +49,7 @@ async def create_policy(payload: PolicyCreateRequest, user=Depends(lambda: get_c
     )
 
 @router.get("", response_model=List[PolicyResponse])
-async def list_policies(user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):
+async def list_policies(user=Depends(require_role(Role.FINANCE,Role.ADMIN))):
     policies = await Policy.filter(organization=user.organization).prefetch_related("rules")
     result = []
     for p in policies:
@@ -58,7 +58,7 @@ async def list_policies(user=Depends(lambda: get_current_user(required_roles=[Ro
     return result
 
 @router.patch("/{policy_id}", response_model=PolicyResponse)
-async def update_policy(policy_id: str, payload: PolicyCreateRequest, user=Depends(lambda: get_current_user(required_roles=[Role.FINANCE]))):
+async def update_policy(policy_id: str, payload: PolicyCreateRequest, user=Depends(require_role(Role.FINANCE, Role.ADMIN))):
     policy = await Policy.get_or_none(id=policy_id, organization=user.organization)
     if not policy:
         raise HTTPException(status_code=404, detail="Policy not found")

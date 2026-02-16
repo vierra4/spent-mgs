@@ -63,7 +63,7 @@ export function AuditLogsPage() {
       const data = await getAuditLogs({ ...filters, page, pageSize: 20 });
       setLogs(data);
     } catch (error) {
-      toast.error('Security sync failed');
+      toast.error('Security sync failed', error.message || 'Unable to fetch audit logs');
     } finally {
       setIsLoading(false);
     }
@@ -163,10 +163,10 @@ export function AuditLogsPage() {
               <TableBody>
                 {isLoading ? (
                   <TableSkeleton />
-                ) : logs?.data.map((log) => (
+                ) : logs?.items?.map((log) => (
                   <TableRow key={log.id} className="hover:bg-slate-50/50 transition-colors">
                     <TableCell className="font-mono text-[11px] text-slate-500">
-                      {formatDateTime(log.timestamp)}
+                      {formatDateTime(log.created_at)}
                     </TableCell>
                     <TableCell>
                       <div className="flex items-center gap-2">
@@ -174,8 +174,8 @@ export function AuditLogsPage() {
                           <UserIcon className="h-3.5 w-3.5 text-slate-400" />
                         </div>
                         <div className="flex flex-col">
-                          <span className="text-xs font-bold text-slate-700">{log.actorName}</span>
-                          <span className="text-[10px] text-slate-400">{log.actorEmail}</span>
+                          <span className="text-xs font-bold text-slate-700">{log.user?.username}</span>
+                          <span className="text-[10px] text-slate-400">{log.user?.email}</span>
                         </div>
                       </div>
                     </TableCell>
@@ -186,12 +186,12 @@ export function AuditLogsPage() {
                     </TableCell>
                     <TableCell>
                       <div className="flex flex-col">
-                        <span className="text-xs font-semibold text-slate-600 capitalize">{log.entityType}</span>
+                        <span className="text-xs font-semibold text-slate-600 capitalize">{log.entity_type}</span>
                         <button 
-                          onClick={() => log.entityType === 'spend' && navigate(`/spends/${log.entityId}`)}
+                          onClick={() => log.entity_type === 'spend' && navigate(`/spends/${log.entity_id}`)}
                           className="text-[10px] font-mono text-blue-500 hover:underline flex items-center gap-1"
                         >
-                          {log.entityId.slice(0, 12)}... <ExternalLink className="h-2 w-2" />
+                          {log.entity_id.slice(0, 12)}... <ExternalLink className="h-2 w-2" />
                         </button>
                       </div>
                     </TableCell>
