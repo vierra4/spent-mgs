@@ -86,7 +86,9 @@ const mockPendingInvites = [
 ];
 
 export function SettingsPage() {
-  const { user, hasRole } = useAuth();
+  // Mocking the auth context for demo purposes
+  const user = { name: 'Emily Davis', email: 'admin@example.com', role: 'admin' };
+  const hasRole = (roles: string[]) => roles.includes('admin');
   const [activeTab, setActiveTab] = useState('users');
   const [inviteDialogOpen, setInviteDialogOpen] = useState(false);
   const [departmentDialogOpen, setDepartmentDialogOpen] = useState(false);
