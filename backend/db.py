@@ -5,13 +5,15 @@ settings = get_settings()
 
 # Config dictionary for Tortoise + Aerich
 TORTOISE_ORM = {
-    "connections": {"default": settings.db_url},
+    "connections": {
+        "default": "postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb"
+    },
     "apps": {
         "models": {
-            "models": ["models.models"],  # your models
+            "models": ["models.models", "aerich.models"],  # add aerich.models for migrations
             "default_connection": "default",
         }
-    }
+    },
 }
 
 async def init_db() -> None:

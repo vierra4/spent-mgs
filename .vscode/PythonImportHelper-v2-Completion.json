@@ -6048,6 +6048,30 @@
         "documentation": {}
     },
     {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
         "label": "get_current_user",
         "importPath": "auth.dependencies",
         "description": "auth.dependencies",
@@ -7122,6 +7146,30 @@
     },
     {
         "label": "models",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
         "importPath": "tortoise",
         "description": "tortoise",
         "isExtraImport": true,
@@ -15704,6 +15752,60 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120511",
+        "description": ".history.backend.db_20260222120511",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\"default\":\"postgresql+asyncpg://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require\"},\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\"],  # your models\n            \"default_connection\": \"default\",\n        }\n    }",
+        "detail": ".history.backend.db_20260222120511",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120511",
+        "description": ".history.backend.db_20260222120511",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\"default\":\"postgresql+asyncpg://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require\"},\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\"],  # your models\n            \"default_connection\": \"default\",\n        }\n    }\n}\nasync def init_db() -> None:",
+        "detail": ".history.backend.db_20260222120511",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120720",
+        "description": ".history.backend.db_20260222120720",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260222120720",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120720",
+        "description": ".history.backend.db_20260222120720",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260222120720",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120752",
+        "description": ".history.backend.db_20260222120752",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260222120752",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260222120752",
+        "description": ".history.backend.db_20260222120752",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260222120752",
+        "documentation": {}
+    },
+    {
         "label": "public",
         "kind": 2,
         "importPath": ".history.backend.main_20260210153114",
@@ -16379,24 +16481,6 @@
         "documentation": {}
     },
     {
-        "label": "RUN_IN_TRANSACTION",
-        "kind": 5,
-        "importPath": "backend.migrations.models.0_20260215144541_init",
-        "description": "backend.migrations.models.0_20260215144541_init",
-        "peekOfCode": "RUN_IN_TRANSACTION = True\nasync def upgrade(db: BaseDBAsyncClient) -> str:\n    return \"\"\"\n        CREATE TABLE IF NOT EXISTS \"organization\" (\n    \"id\" CHAR(36) NOT NULL PRIMARY KEY,\n    \"created_at\" TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,\n    \"updated_at\" TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,\n    \"name\" VARCHAR(255) NOT NULL,\n    \"domain\" VARCHAR(255),\n    \"auth_id\" VARCHAR(500),",
-        "detail": "backend.migrations.models.0_20260215144541_init",
-        "documentation": {}
-    },
-    {
-        "label": "MODELS_STATE",
-        "kind": 5,
-        "importPath": "backend.migrations.models.0_20260215144541_init",
-        "description": "backend.migrations.models.0_20260215144541_init",
-        "peekOfCode": "MODELS_STATE = (\n    \"eJztXW1vpLYW/isjPqVSukrSpK2iqytNktk23bxUyaS36lWFHHAmVgCzxmQ33Zv/fmUGBj\"\n    \"CG4AzDmJnzZV+wDwPPsc15zov9zfKpi73owzgMGX1GnnU8+mYFyMfW8ajStjuyUBjmLeIC\"\n    \"R/de0hkVe91HnCGHW8ejB+RFeHdkuThyGAk5oYF1PApizxMXqRNxRoJZfikOyOcY25zOMH\"\n    \"/EzDoe/ffv3ZFFAhd/xVH23/DJfiDYc0uPS1zx28l1m7+EybW7u/Ozj0lP8XP3tkO92A/y\"\n    \"3uELf6TBonscE/eDkBFtMxxghjh2C68hnjJ94+zS/Imt4xFnMV48qptfcPEDij0BhvWvhz\"\n    \"hwBAaj5JfEH4f/tjTgcWggoCUBF1h8e52/Vf7OyVVL/NTpr+ObnR9+/C55SxrxGUsaE0Ss\"\n    \"10QQcTQXTXDNgXQYFq9tI14F9AxxzImP1aCWJSVw3VT0Q/aP94CcXchRzkdYBnMG3/swtR\"\n    \"hG7nXgvaQabMB4en45uZ2OL38Xb+JH0Wcxf6yz8XQiWg6Sqy/S1Z25SihDznziLG4y+s/5\"\n    \"9NeR+O/or+uriay4Rb/pX5Z4JhRzagf0i43cwmDLrmbAvO4WZkgcuu9UbFkSFLtWxaYPn+\"",
-        "detail": "backend.migrations.models.0_20260215144541_init",
-        "documentation": {}
-    },
-    {
         "label": "BaseModel",
         "kind": 6,
         "importPath": "backend.models.models",
@@ -16887,7 +16971,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\"default\": settings.db_url},\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\"],  # your models\n            \"default_connection\": \"default\",\n        }\n    }",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
         "detail": "backend.db",
         "documentation": {}
     },
@@ -16896,7 +16980,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\"default\": settings.db_url},\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\"],  # your models\n            \"default_connection\": \"default\",\n        }\n    }\n}\nasync def init_db() -> None:",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
         "detail": "backend.db",
         "documentation": {}
     },
