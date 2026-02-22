@@ -64,3 +64,6 @@ async def debug_users():
 # @app.get("/debug-orgs_users")
 # async def debug_orgs_users ():
 #     return await User.filter(org_id="")all().values()
+if __name__ == "__main__":
+
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

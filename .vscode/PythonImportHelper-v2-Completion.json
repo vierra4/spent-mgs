@@ -2320,6 +2320,30 @@
         "documentation": {}
     },
     {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "Depends",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -4352,6 +4376,102 @@
         "documentation": {}
     },
     {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organization",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "IdempotencyKey",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
         "label": "User",
         "importPath": "models.models",
         "description": "models.models",
@@ -5213,6 +5333,54 @@
         "description": "fastapi_plugin.fast_api_client",
         "isExtraImport": true,
         "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "Auth0FastAPI",
+        "importPath": "fastapi_plugin.fast_api_client",
+        "description": "fastapi_plugin.fast_api_client",
+        "isExtraImport": true,
+        "detail": "fastapi_plugin.fast_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
         "documentation": {}
     },
     {
@@ -11334,11 +11502,219 @@
         "documentation": {}
     },
     {
-        "label": "CORSMiddleware",
-        "importPath": "fastapi.middleware.cors",
-        "description": "fastapi.middleware.cors",
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
         "isExtraImport": true,
-        "detail": "fastapi.middleware.cors",
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "spends",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "approvals",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "receipts",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "notifications",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "audit_logs",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "policies",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "admins",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
         "documentation": {}
     },
     {
@@ -11419,6 +11795,86 @@
         "description": "fastapi.middleware.cors",
         "isExtraImport": true,
         "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
         "documentation": {}
     },
     {
@@ -11635,6 +12091,30 @@
         "description": "db",
         "isExtraImport": true,
         "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
         "documentation": {}
     },
     {
@@ -14923,6 +15403,114 @@
         "description": ".history.backend.main_20260215233323",
         "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
         "detail": ".history.backend.main_20260215233323",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": ".history.backend.main_20260222102908",
+        "description": ".history.backend.main_20260222102908",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result\n@app.get(\"/debug-orgs\")\nasync def debug_orgs():",
+        "detail": ".history.backend.main_20260222102908",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222102908",
+        "description": ".history.backend.main_20260222102908",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": ".history.backend.main_20260222102908",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222102908",
+        "description": ".history.backend.main_20260222102908",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": ".history.backend.main_20260222102908",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222102908",
+        "description": ".history.backend.main_20260222102908",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": ".history.backend.main_20260222102908",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": ".history.backend.main_20260222103049",
+        "description": ".history.backend.main_20260222103049",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result\n@app.get(\"/debug-orgs\")\nasync def debug_orgs():",
+        "detail": ".history.backend.main_20260222103049",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103049",
+        "description": ".history.backend.main_20260222103049",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": ".history.backend.main_20260222103049",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103049",
+        "description": ".history.backend.main_20260222103049",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": ".history.backend.main_20260222103049",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103049",
+        "description": ".history.backend.main_20260222103049",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": ".history.backend.main_20260222103049",
+        "documentation": {}
+    },
+    {
+        "label": "public",
+        "kind": 2,
+        "importPath": ".history.backend.main_20260222103109",
+        "description": ".history.backend.main_20260222103109",
+        "peekOfCode": "def public():\n   \"\"\"No access token required to access this route\"\"\"\n   result = {\n       \"status\": \"success\",\n       \"msg\": (\"Hello from a public endpoint! You don't need to be \"\n               \"authenticated to see this.\")\n   }\n   return result\n@app.get(\"/debug-orgs\")\nasync def debug_orgs():",
+        "detail": ".history.backend.main_20260222103109",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103109",
+        "description": ".history.backend.main_20260222103109",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# AddCORS Middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nsettings = get_settings()",
+        "detail": ".history.backend.main_20260222103109",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103109",
+        "description": ".history.backend.main_20260222103109",
+        "peekOfCode": "settings = get_settings()\nauth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)",
+        "detail": ".history.backend.main_20260222103109",
+        "documentation": {}
+    },
+    {
+        "label": "auth0",
+        "kind": 5,
+        "importPath": ".history.backend.main_20260222103109",
+        "description": ".history.backend.main_20260222103109",
+        "peekOfCode": "auth0 = Auth0FastAPI(\n   domain=settings.auth0_domain,\n   audience=settings.auth0_api_audience\n)\napp.include_router(users.router)\napp.include_router(spends.router)\napp.include_router(approvals.router)\napp.include_router(receipts.router)\napp.include_router(events.router)\napp.include_router(policies.router)",
+        "detail": ".history.backend.main_20260222103109",
         "documentation": {}
     },
     {
