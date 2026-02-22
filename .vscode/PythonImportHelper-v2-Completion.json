@@ -3504,6 +3504,78 @@
         "documentation": {}
     },
     {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Approval",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
         "label": "Policy",
         "importPath": "models.models",
         "description": "models.models",
@@ -3561,6 +3633,102 @@
     },
     {
         "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Policy",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PolicyRule",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpendEvent",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
         "importPath": "models.models",
         "description": "models.models",
         "isExtraImport": true,
@@ -9556,6 +9724,398 @@
         "documentation": {}
     },
     {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "log_action",
+        "importPath": "services.audit_service",
+        "description": "services.audit_service",
+        "isExtraImport": true,
+        "detail": "services.audit_service",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
+        "isExtraImport": true,
+        "detail": "backend.spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "send_approval_notification",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "send_approval_notification",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "send_approval_notification",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "send_approval_notification",
+        "importPath": "notifications.service",
+        "description": "notifications.service",
+        "isExtraImport": true,
+        "detail": "notifications.service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "list_notifications",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "mark_notification_as_read",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_notification",
+        "importPath": "services.notification_service",
+        "description": "services.notification_service",
+        "isExtraImport": true,
+        "detail": "services.notification_service",
+        "documentation": {}
+    },
+    {
+        "label": "select_approver",
+        "importPath": "services.approver_service",
+        "description": "services.approver_service",
+        "isExtraImport": true,
+        "detail": "services.approver_service",
+        "documentation": {}
+    },
+    {
+        "label": "select_approver",
+        "importPath": "services.approver_service",
+        "description": "services.approver_service",
+        "isExtraImport": true,
+        "detail": "services.approver_service",
+        "documentation": {}
+    },
+    {
+        "label": "select_approver",
+        "importPath": "services.approver_service",
+        "description": "services.approver_service",
+        "isExtraImport": true,
+        "detail": "services.approver_service",
+        "documentation": {}
+    },
+    {
+        "label": "select_approver",
+        "importPath": "services.approver_service",
+        "description": "services.approver_service",
+        "isExtraImport": true,
+        "detail": "services.approver_service",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "transition_spend",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
+        "label": "SpendStatus",
+        "importPath": "spend_state",
+        "description": "spend_state",
+        "isExtraImport": true,
+        "detail": "spend_state",
+        "documentation": {}
+    },
+    {
         "label": "base64,",
         "kind": 6,
         "isExtraImport": true,
@@ -9653,7 +10213,7 @@
         "documentation": {}
     },
     {
-        "label": "resolve_approval",
+        "label": "request_approval",
         "importPath": "services.approval_service",
         "description": "services.approval_service",
         "isExtraImport": true,
@@ -9669,131 +10229,27 @@
         "documentation": {}
     },
     {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
+        "label": "request_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
         "isExtraImport": true,
-        "detail": "services.audit_service",
+        "detail": "services.approval_service",
         "documentation": {}
     },
     {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
+        "label": "resolve_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
         "isExtraImport": true,
-        "detail": "services.audit_service",
+        "detail": "services.approval_service",
         "documentation": {}
     },
     {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
+        "label": "request_approval",
+        "importPath": "services.approval_service",
+        "description": "services.approval_service",
         "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
-        "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
-        "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
-        "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
-        "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "log_action",
-        "importPath": "services.audit_service",
-        "description": "services.audit_service",
-        "isExtraImport": true,
-        "detail": "services.audit_service",
-        "documentation": {}
-    },
-    {
-        "label": "transition_spend",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "SpendStatus",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "transition_spend",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "SpendStatus",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "transition_spend",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "SpendStatus",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "transition_spend",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
-        "documentation": {}
-    },
-    {
-        "label": "SpendStatus",
-        "importPath": "spend_state",
-        "description": "spend_state",
-        "isExtraImport": true,
-        "detail": "spend_state",
+        "detail": "services.approval_service",
         "documentation": {}
     },
     {
@@ -12264,59 +12720,11 @@
         "documentation": {}
     },
     {
-        "label": "create_notification",
-        "importPath": "services.notification_service",
-        "description": "services.notification_service",
-        "isExtraImport": true,
-        "detail": "services.notification_service",
-        "documentation": {}
-    },
-    {
-        "label": "list_notifications",
-        "importPath": "services.notification_service",
-        "description": "services.notification_service",
-        "isExtraImport": true,
-        "detail": "services.notification_service",
-        "documentation": {}
-    },
-    {
-        "label": "mark_notification_as_read",
-        "importPath": "services.notification_service",
-        "description": "services.notification_service",
-        "isExtraImport": true,
-        "detail": "services.notification_service",
-        "documentation": {}
-    },
-    {
-        "label": "create_notification",
-        "importPath": "services.notification_service",
-        "description": "services.notification_service",
-        "isExtraImport": true,
-        "detail": "services.notification_service",
-        "documentation": {}
-    },
-    {
         "label": "attach_receipt",
         "importPath": "services.receipt_service",
         "description": "services.receipt_service",
         "isExtraImport": true,
         "detail": "services.receipt_service",
-        "documentation": {}
-    },
-    {
-        "label": "send_approval_notification",
-        "importPath": "notifications.service",
-        "description": "notifications.service",
-        "isExtraImport": true,
-        "detail": "notifications.service",
-        "documentation": {}
-    },
-    {
-        "label": "select_approver",
-        "importPath": "services.approver_service",
-        "description": "services.approver_service",
-        "isExtraImport": true,
-        "detail": "services.approver_service",
         "documentation": {}
     },
     {
@@ -16146,19 +16554,19 @@
     {
         "label": "SpendStatus",
         "kind": 6,
-        "importPath": "spend_state",
-        "description": "spend_state",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
         "peekOfCode": "class SpendStatus(str, Enum):\n    PENDING = \"pending\"\n    AWAITING_APPROVAL = \"awaiting_approval\"\n    APPROVED = \"approved\"\n    REJECTED = \"rejected\"\n    BLOCKED = \"blocked\"\n# Allowed transitions map\nTRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],",
-        "detail": "spend_state",
+        "detail": "backend.spend_state",
         "documentation": {}
     },
     {
         "label": "TRANSITIONS",
         "kind": 5,
-        "importPath": "spend_state",
-        "description": "spend_state",
+        "importPath": "backend.spend_state",
+        "description": "backend.spend_state",
         "peekOfCode": "TRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.APPROVED: [],\n    SpendStatus.REJECTED: [],\n    SpendStatus.BLOCKED: []\n}\nasync def transition_spend(spend: SpendEvent, new_status: str):\n    if new_status not in TRANSITIONS[spend.status]:\n        raise ValueError(f\"Invalid transition from {spend.status} to {new_status}\")",
-        "detail": "spend_state",
+        "detail": "backend.spend_state",
         "documentation": {}
     }
 ]
