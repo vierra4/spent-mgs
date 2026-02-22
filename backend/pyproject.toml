@@ -16,7 +16,8 @@ dependencies = [
     "asyncpg",
     "python-dotenv",
     "pydantic-settings",
-    "fastadmin"
+    "fastadmin",
+    "bcrypt"
 ]
 
 [build-system]
