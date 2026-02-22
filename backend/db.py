@@ -1,12 +1,11 @@
 from tortoise import Tortoise
 from auth.config import get_settings
-
 settings = get_settings()
 
 # Config dictionary for Tortoise + Aerich
 TORTOISE_ORM = {
     "connections": {
-        "default": "postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb"
+        "default": settings.db_url
     },
     "apps": {
         "models": {
