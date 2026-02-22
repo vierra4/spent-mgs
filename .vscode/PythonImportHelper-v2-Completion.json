@@ -17039,7 +17039,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
         "detail": "backend.db",
         "documentation": {}
     },
@@ -17048,7 +17048,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
         "detail": "backend.db",
         "documentation": {}
     },
