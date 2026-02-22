@@ -151,7 +151,7 @@ export function SpendsListPage() {
 }
 
 /**
- * Realistic Empty State for new users
+  Empty State for new users
  */
 function EmptyState({ onAdd }: { onAdd: () => void }) {
   return (

@@ -10,11 +10,10 @@ const EmailSignup: React.FC = () => {
   };
 
   return (
-    <section className="bg-black flex items-center justify-center py-24 p-6 w-full">
       <div className="w-full max-w-xl">
         <form className="relative" onSubmit={handleSubmit}>
           {/* Input Container */}
-          <div className="flex items-center p-1.5 bg-[#121212] border border-white/10 rounded-full transition-all duration-300 focus-within:border-white/30">
+          <div className="flex items-center p-1.5 bg-primary border border-white/10 rounded-full transition-all duration-300 focus-within:border-white/30">
             
             <div className="flex-1 flex items-center px-6">
               <input 
@@ -37,7 +36,6 @@ const EmailSignup: React.FC = () => {
           </div>
         </form>
       </div>
-    </section>
   );
 };
 
