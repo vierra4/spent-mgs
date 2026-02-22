@@ -15,7 +15,8 @@ dependencies = [
     "aerich",
     "asyncpg",
     "python-dotenv",
-    "pydantic-settings"
+    "pydantic-settings",
+    "fastadmin"
 ]
 
 [build-system]
