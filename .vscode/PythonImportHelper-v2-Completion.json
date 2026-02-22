@@ -15558,19 +15558,19 @@
     {
         "label": "SpendStatus",
         "kind": 6,
-        "importPath": "backend.spend_state",
-        "description": "backend.spend_state",
+        "importPath": "spend_state",
+        "description": "spend_state",
         "peekOfCode": "class SpendStatus(str, Enum):\n    PENDING = \"pending\"\n    AWAITING_APPROVAL = \"awaiting_approval\"\n    APPROVED = \"approved\"\n    REJECTED = \"rejected\"\n    BLOCKED = \"blocked\"\n# Allowed transitions map\nTRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],",
-        "detail": "backend.spend_state",
+        "detail": "spend_state",
         "documentation": {}
     },
     {
         "label": "TRANSITIONS",
         "kind": 5,
-        "importPath": "backend.spend_state",
-        "description": "backend.spend_state",
+        "importPath": "spend_state",
+        "description": "spend_state",
         "peekOfCode": "TRANSITIONS = {\n    SpendStatus.PENDING: [SpendStatus.AWAITING_APPROVAL, SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.AWAITING_APPROVAL: [SpendStatus.APPROVED, SpendStatus.REJECTED, SpendStatus.BLOCKED],\n    SpendStatus.APPROVED: [],\n    SpendStatus.REJECTED: [],\n    SpendStatus.BLOCKED: []\n}\nasync def transition_spend(spend: SpendEvent, new_status: str):\n    if new_status not in TRANSITIONS[spend.status]:\n        raise ValueError(f\"Invalid transition from {spend.status} to {new_status}\")",
-        "detail": "backend.spend_state",
+        "detail": "spend_state",
         "documentation": {}
     }
 ]
