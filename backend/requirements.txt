@@ -7,11 +7,11 @@ tortoise-orm
 aiosqlite
 fastadmin[fastapi,tortoise-orm]
 fastapi-admin 
-aioredis
-redis
 starlette-admin[tortoise]
 aiosmtplib
-tornadmin
 gunicorn
 aerich
 asyncpg
+python-dotenv
+python-dotenv
+pydantic-settings

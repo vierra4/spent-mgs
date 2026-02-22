@@ -32,11 +32,19 @@
         "documentation": {}
     },
     {
-        "label": "BaseSettings",
-        "importPath": "pydantic_settings",
-        "description": "pydantic_settings",
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
         "isExtraImport": true,
-        "detail": "pydantic_settings",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
         "documentation": {}
     },
     {
@@ -61,6 +69,39 @@
         "description": "pydantic_settings",
         "isExtraImport": true,
         "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
         "documentation": {}
     },
     {
@@ -8115,15 +8156,6 @@
         "documentation": {}
     },
     {
-        "label": "os",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
-        "documentation": {}
-    },
-    {
         "label": "is_duplicate",
         "importPath": "services.idempotency_service",
         "description": "services.idempotency_service",
@@ -13160,6 +13192,42 @@
         "documentation": {}
     },
     {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": ".history.backend.auth.config_20260222142233",
+        "description": ".history.backend.auth.config_20260222142233",
+        "peekOfCode": "class Settings:\n    def __init__(self):\n        self.auth0_domain = os.getenv(\"AUTH0_DOMAIN\")\n        self.auth0_api_audience = os.getenv(\"AUTH0_API_AUDIENCE\")\n        self.gemini_api_key = os.getenv(\"GEMINI_API_KEY\")\n        self.authorization_header_streams_auth0_token = os.getenv(\"AUTHORIZATION_HEADER_STREAMS_AUTH0_TOKEN\")\n        self.webhook_signing_secret = os.getenv(\"WEBHOOK_SIGNING_SECRET\")\n        self.auth0_webhook_secret = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n        self.admin_user_model = os.getenv(\"ADMIN_USER_MODEL\")\n        self.admin_user_model_username_field = os.getenv(\"ADMIN_USER_MODEL_USERNAME_FIELD\")",
+        "detail": ".history.backend.auth.config_20260222142233",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": ".history.backend.auth.config_20260222142233",
+        "description": ".history.backend.auth.config_20260222142233",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": ".history.backend.auth.config_20260222142233",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": ".history.backend.auth.config_20260222142305",
+        "description": ".history.backend.auth.config_20260222142305",
+        "peekOfCode": "class Settings:\n    def __init__(self):\n        self.auth0_domain = os.getenv(\"AUTH0_DOMAIN\")\n        self.auth0_api_audience = os.getenv(\"AUTH0_API_AUDIENCE\")\n        self.gemini_api_key = os.getenv(\"GEMINI_API_KEY\")\n        self.authorization_header_streams_auth0_token = os.getenv(\"AUTHORIZATION_HEADER_STREAMS_AUTH0_TOKEN\")\n        self.webhook_signing_secret = os.getenv(\"WEBHOOK_SIGNING_SECRET\")\n        self.auth0_webhook_secret = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n        self.admin_user_model = os.getenv(\"ADMIN_USER_MODEL\")\n        self.admin_user_model_username_field = os.getenv(\"ADMIN_USER_MODEL_USERNAME_FIELD\")",
+        "detail": ".history.backend.auth.config_20260222142305",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": ".history.backend.auth.config_20260222142305",
+        "description": ".history.backend.auth.config_20260222142305",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": ".history.backend.auth.config_20260222142305",
+        "documentation": {}
+    },
+    {
         "label": "settings",
         "kind": 5,
         "importPath": ".history.backend.auth.dependencies_20260210205527",
@@ -16431,7 +16499,7 @@
         "kind": 6,
         "importPath": "backend.auth.config",
         "description": "backend.auth.config",
-        "peekOfCode": "class Settings(BaseSettings):\n   auth0_domain: str\n   auth0_api_audience: str\n   gemini_api_key: str\n   authorization_header_streams_auth0_token: str\n   webhook_signing_secret:str\n   auth0_webhook_secret:str\n   admin_user_model:str\n   admin_user_model_username_field:str\n   admin_secret_key:str",
+        "peekOfCode": "class Settings:\n    def __init__(self):\n        self.auth0_domain = os.getenv(\"AUTH0_DOMAIN\")\n        self.auth0_api_audience = os.getenv(\"AUTH0_API_AUDIENCE\")\n        self.gemini_api_key = os.getenv(\"GEMINI_API_KEY\")\n        self.authorization_header_streams_auth0_token = os.getenv(\"AUTHORIZATION_HEADER_STREAMS_AUTH0_TOKEN\")\n        self.webhook_signing_secret = os.getenv(\"WEBHOOK_SIGNING_SECRET\")\n        self.auth0_webhook_secret = os.getenv(\"AUTH0_WEBHOOK_SECRET\")\n        self.admin_user_model = os.getenv(\"ADMIN_USER_MODEL\")\n        self.admin_user_model_username_field = os.getenv(\"ADMIN_USER_MODEL_USERNAME_FIELD\")",
         "detail": "backend.auth.config",
         "documentation": {}
     },
