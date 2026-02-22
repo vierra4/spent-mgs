@@ -27,7 +27,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 settings = get_settings()
 auth0 = Auth0FastAPI(
    domain=settings.auth0_domain,
