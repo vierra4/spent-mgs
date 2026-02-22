@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { useApi } from '@/lib/api';
-import { Spend, PaginatedResponse } from '@/types/spend';
+import { Spend } from '@/types/spend';
 import { SpendTable } from '@/components/spend/SpendTable';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -38,7 +38,7 @@ export function SpendsListPage() {
   const loadSpends = async () => {
     setIsLoading(true);
     try {
-      // Realistic API call using Auth0 sub and pagination
+      // API call using Auth0 sub and pagination
       const data = await getSpends({ 
         userId: user?.sub, 
         page, 
