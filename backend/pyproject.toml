@@ -1,8 +1,0 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[tool.aerich]
-tortoise_orm = "db.TORTOISE_ORM"
-location = "migrations"
-src_folder = "."
