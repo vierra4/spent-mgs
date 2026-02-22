@@ -5,9 +5,6 @@ auth0-fastapi-api
 langchain-google-genai
 tortoise-orm
 aiosqlite
-fastadmin[fastapi,tortoise-orm]
-fastapi-admin 
-starlette-admin[tortoise]
 aiosmtplib
 gunicorn
 aerich

@@ -1,3 +1,26 @@
+[project]
+name = "backend"
+version = "0.1.0"
+dependencies = [
+    "fastapi[standard]",
+    "uvicorn",
+    "authlib",
+    "auth0-fastapi-api",
+    "langchain-google-genai",
+    "tortoise-orm",
+    "aiosqlite",
+    "aiosmtplib",
+    "gunicorn",
+    "aerich",
+    "asyncpg",
+    "python-dotenv",
+    "pydantic-settings"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
 [tool.aerich]
 tortoise_orm = "db.TORTOISE_ORM"
 location = "./migrations"
