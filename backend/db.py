@@ -1,15 +1,15 @@
-from tortoise import Tortoise
+from tortoise import Tortoise # type: ignore
 from auth.config import get_settings
+
 settings = get_settings()
 
-# Config dictionary for Tortoise + Aerich
 TORTOISE_ORM = {
     "connections": {
         "default": settings.db_url
     },
     "apps": {
         "models": {
-            "models": ["models.models", "aerich.models"],  # add aerich.models for migrations
+            "models": ["models.models", "aerich.models"],
             "default_connection": "default",
         }
     },
@@ -17,9 +17,6 @@ TORTOISE_ORM = {
 
 async def init_db() -> None:
     await Tortoise.init(config=TORTOISE_ORM)
-    # print(Tortoise.apps)
-    # Only generate schemas for development/testing
-    # await Tortoise.generate_schemas()
 
 async def close_db() -> None:
     await Tortoise.close_connections()

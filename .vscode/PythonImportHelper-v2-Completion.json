@@ -6113,6 +6113,78 @@
         "documentation": {}
     },
     {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "auth.config",
+        "description": "auth.config",
+        "isExtraImport": true,
+        "detail": "auth.config",
+        "documentation": {}
+    },
+    {
         "label": "get_current_user",
         "importPath": "auth.dependencies",
         "description": "auth.dependencies",
@@ -7187,6 +7259,94 @@
     },
     {
         "label": "models",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
         "importPath": "tortoise",
         "description": "tortoise",
         "isExtraImport": true,
@@ -15874,6 +16034,186 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223164717",
+        "description": ".history.backend.db_20260223164717",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223164717",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223164717",
+        "description": ".history.backend.db_20260223164717",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223164717",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165053",
+        "description": ".history.backend.db_20260223165053",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223165053",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165053",
+        "description": ".history.backend.db_20260223165053",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165053",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165130",
+        "description": ".history.backend.db_20260223165130",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223165130",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165130",
+        "description": ".history.backend.db_20260223165130",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165130",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165159",
+        "description": ".history.backend.db_20260223165159",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223165159",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165159",
+        "description": ".history.backend.db_20260223165159",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165159",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165215",
+        "description": ".history.backend.db_20260223165215",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223165215",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165215",
+        "description": ".history.backend.db_20260223165215",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165215",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165357",
+        "description": ".history.backend.db_20260223165357",
+        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgresql://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require\"#settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "detail": ".history.backend.db_20260223165357",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165357",
+        "description": ".history.backend.db_20260223165357",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgresql://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require\"#settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165357",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165634",
+        "description": ".history.backend.db_20260223165634",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"asyncpg://neondb_owner:npg_8tQUGEgTp7Fc@ep-calm-mode-a874d34c-pooler.eastus2.azure.neon.tech/neondb?sslmode=require\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165634",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165742",
+        "description": ".history.backend.db_20260223165742",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165742",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165851",
+        "description": ".history.backend.db_20260223165851",
+        "peekOfCode": "settings = get_settings()\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }",
+        "detail": ".history.backend.db_20260223165851",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165851",
+        "description": ".history.backend.db_20260223165851",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165851",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165926",
+        "description": ".history.backend.db_20260223165926",
+        "peekOfCode": "settings = get_settings()\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }",
+        "detail": ".history.backend.db_20260223165926",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223165926",
+        "description": ".history.backend.db_20260223165926",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223165926",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223170015",
+        "description": ".history.backend.db_20260223170015",
+        "peekOfCode": "settings = get_settings()\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }",
+        "detail": ".history.backend.db_20260223170015",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": ".history.backend.db_20260223170015",
+        "description": ".history.backend.db_20260223170015",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
+        "detail": ".history.backend.db_20260223170015",
+        "documentation": {}
+    },
+    {
         "label": "public",
         "kind": 2,
         "importPath": ".history.backend.main_20260210153114",
@@ -17039,7 +17379,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "settings = get_settings()\n# Config dictionary for Tortoise + Aerich\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",",
+        "peekOfCode": "settings = get_settings()\nTORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }",
         "detail": "backend.db",
         "documentation": {}
     },
@@ -17048,7 +17388,7 @@
         "kind": 5,
         "importPath": "backend.db",
         "description": "backend.db",
-        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],  # add aerich.models for migrations\n            \"default_connection\": \"default\",\n        }\n    },",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": settings.db_url\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.models\", \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    },",
         "detail": "backend.db",
         "documentation": {}
     },

@@ -23,7 +23,6 @@ import Hero from "@/components/home/Header";
 import Integration from "@/components/home/StartCall";
 
 export default function HomePage() {
-  const { user, accessToken, isLoading, isAuthenticated } = useAuthenticatedUser();
 
   return (
     <div >
