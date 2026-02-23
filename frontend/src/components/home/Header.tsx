@@ -184,7 +184,7 @@ const Hero: React.FC = () => {
             Revolutionizing finance for a better tomorrow. <span className="text-zinc-400">Today.</span>
           </h1>
           <p className="text-lg md:text-xl text-zinc-500 dark:text-zinc-400 max-w-2xl mx-auto mb-10">
-            Fintech services leverage technology to enhance financial processes, offering innovative solutions for banking, investing, and wealth management.
+          <span className="font-serif font-extrabold leading-tight">Spendin</span> leverage technology to enhance financial processes, offering innovative solutions for banking, investing, and wealth management.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4 mb-20">
           <EmailSignup/>
