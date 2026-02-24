@@ -12,3 +12,4 @@ asyncpg
 python-dotenv
 python-dotenv
 pydantic-settings
+intuit-oauth

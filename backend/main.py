@@ -9,15 +9,9 @@ from db import init_db, close_db
 from contextlib import asynccontextmanager
 from models.models import Category, User, Organization, IdempotencyKey
 import bcrypt
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    # Everything before 'yield' runs on startup
-    await init_db()
-    yield
-    # Everything after 'yield' runs on shutdown
-    await close_db()
+
 # Creates app instance
-app = FastAPI(lifespan=lifespan)
+app = FastAPI()
 # AddCORS Middleware
 app.add_middleware(
     CORSMiddleware,
@@ -63,6 +57,14 @@ async def debug_users():
 # @app.get("/debug-orgs_users")
 # async def debug_orgs_users ():
 #     return await User.filter(org_id="")all().values()
-if __name__ == "__main__":
+from tortoise.contrib.fastapi import register_tortoise
 
+register_tortoise(
+    app,
+    db_url=settings.db_url,
+    modules={"models": ["models.models"]},
+    generate_schemas=False,
+    add_exception_handlers=True,
+)
+if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
